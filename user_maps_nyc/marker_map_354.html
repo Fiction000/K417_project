@@ -1,0 +1,1164 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script>L_PREFER_CANVAS = false; L_NO_TOUCH = false; L_DISABLE_3D = false;</script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.2.0/dist/leaflet.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.2.0/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css" />
+    <link rel="stylesheet" href="https://rawgit.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css" />
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+            <style> #map_27b031a789b8409e9f3886300a73331c {
+                position : relative;
+                width : 100.0%;
+                height: 100.0%;
+                left: 0.0%;
+                top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_27b031a789b8409e9f3886300a73331c" ></div>
+        
+</body>
+<script>    
+    
+
+            
+                var bounds = null;
+            
+
+            var map_27b031a789b8409e9f3886300a73331c = L.map(
+                                  'map_27b031a789b8409e9f3886300a73331c',
+                                  {center: [40.7264,-74.005],
+                                  zoom: 12,
+                                  maxBounds: bounds,
+                                  layers: [],
+                                  worldCopyJump: false,
+                                  crs: L.CRS.EPSG3857
+                                 });
+            
+        
+    
+            var tile_layer_137a3bf897b64874b34d39df684a116e = L.tileLayer(
+                'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+                {
+  "attribution": null,
+  "detectRetina": false,
+  "maxZoom": 18,
+  "minZoom": 1,
+  "noWrap": false,
+  "subdomains": "abc"
+}
+                ).addTo(map_27b031a789b8409e9f3886300a73331c);
+        
+    
+
+            var marker_e51e42894d79420db36d633259418987 = L.marker(
+                [40.68069546,-73.99565446],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_5cceb50810754202878118d00e5e7c16 = L.popup({maxWidth: '300'});
+
+            
+                var html_d4c8d3f5af794e42ba9c9c30f092cd06 = $('<div id="html_d4c8d3f5af794e42ba9c9c30f092cd06" style="width: 100.0%; height: 100.0%;">Train StationMon Apr 23 12:42:23 +0000 2012</div>')[0];
+                popup_5cceb50810754202878118d00e5e7c16.setContent(html_d4c8d3f5af794e42ba9c9c30f092cd06);
+            
+
+            marker_e51e42894d79420db36d633259418987.bindPopup(popup_5cceb50810754202878118d00e5e7c16);
+
+            
+        
+    
+
+            var marker_b8e0c264db144458803b5c45acaad84c = L.marker(
+                [40.69973923,-73.95021915],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_a467097bb04d4fc3b46af0c32ee4be10 = L.popup({maxWidth: '300'});
+
+            
+                var html_374774d88f9b4ae281b53d001a8e7154 = $('<div id="html_374774d88f9b4ae281b53d001a8e7154" style="width: 100.0%; height: 100.0%;">SubwayMon Apr 23 12:41:21 +0000 2012</div>')[0];
+                popup_a467097bb04d4fc3b46af0c32ee4be10.setContent(html_374774d88f9b4ae281b53d001a8e7154);
+            
+
+            marker_b8e0c264db144458803b5c45acaad84c.bindPopup(popup_a467097bb04d4fc3b46af0c32ee4be10);
+
+            
+        
+    
+
+            var marker_40005087fb4f4d71ab61c9000b9283e0 = L.marker(
+                [40.68990543,-73.95177658],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_ce03ea8660444d0c980a675520aae2a6 = L.popup({maxWidth: '300'});
+
+            
+                var html_89cd3311c64c45dbb329f1911032cd17 = $('<div id="html_89cd3311c64c45dbb329f1911032cd17" style="width: 100.0%; height: 100.0%;">SubwayMon Apr 23 12:41:31 +0000 2012</div>')[0];
+                popup_ce03ea8660444d0c980a675520aae2a6.setContent(html_89cd3311c64c45dbb329f1911032cd17);
+            
+
+            marker_40005087fb4f4d71ab61c9000b9283e0.bindPopup(popup_ce03ea8660444d0c980a675520aae2a6);
+
+            
+        
+    
+
+            var marker_e561f20384604cfb968aa558d33b9e76 = L.marker(
+                [40.68847685,-73.98501277],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_215c550c5de4445a8566b09878b4703d = L.popup({maxWidth: '300'});
+
+            
+                var html_16f4d842498447de885d533a981d8ef4 = $('<div id="html_16f4d842498447de885d533a981d8ef4" style="width: 100.0%; height: 100.0%;">SubwayMon Apr 23 12:41:53 +0000 2012</div>')[0];
+                popup_215c550c5de4445a8566b09878b4703d.setContent(html_16f4d842498447de885d533a981d8ef4);
+            
+
+            marker_e561f20384604cfb968aa558d33b9e76.bindPopup(popup_215c550c5de4445a8566b09878b4703d);
+
+            
+        
+    
+
+            var marker_2383f071d1d345f6ae1966cf2eecddaf = L.marker(
+                [40.68610537,-73.99047375],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_4d3f799ce07c4ac683d878a13fc6fa63 = L.popup({maxWidth: '300'});
+
+            
+                var html_415f893073c94706820d53e3099e1c8c = $('<div id="html_415f893073c94706820d53e3099e1c8c" style="width: 100.0%; height: 100.0%;">SubwayMon Apr 23 12:42:13 +0000 2012</div>')[0];
+                popup_4d3f799ce07c4ac683d878a13fc6fa63.setContent(html_415f893073c94706820d53e3099e1c8c);
+            
+
+            marker_2383f071d1d345f6ae1966cf2eecddaf.bindPopup(popup_4d3f799ce07c4ac683d878a13fc6fa63);
+
+            
+        
+    
+
+            var marker_79eeb6d4207b4b85bf60cc5a4f0babeb = L.marker(
+                [40.57585003,-73.98112909],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_e60c6c0bbca549c990b26dc3e586d888 = L.popup({maxWidth: '300'});
+
+            
+                var html_91708a20afab4b29b9947daa67c94c77 = $('<div id="html_91708a20afab4b29b9947daa67c94c77" style="width: 100.0%; height: 100.0%;">Ice Cream ShopWed Jul 18 22:33:35 +0000 2012</div>')[0];
+                popup_e60c6c0bbca549c990b26dc3e586d888.setContent(html_91708a20afab4b29b9947daa67c94c77);
+            
+
+            marker_79eeb6d4207b4b85bf60cc5a4f0babeb.bindPopup(popup_e60c6c0bbca549c990b26dc3e586d888);
+
+            
+        
+    
+
+            var marker_6c38cbc515ca4b0393adea6fda913de9 = L.marker(
+                [40.67026755,-73.98977637],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_52e2cd1c4b264776ae6a30761c1918ee = L.popup({maxWidth: '300'});
+
+            
+                var html_e9b9ce55685943ff810323b667e32965 = $('<div id="html_e9b9ce55685943ff810323b667e32965" style="width: 100.0%; height: 100.0%;">SubwayMon Apr 23 12:42:47 +0000 2012</div>')[0];
+                popup_52e2cd1c4b264776ae6a30761c1918ee.setContent(html_e9b9ce55685943ff810323b667e32965);
+            
+
+            marker_6c38cbc515ca4b0393adea6fda913de9.bindPopup(popup_52e2cd1c4b264776ae6a30761c1918ee);
+
+            
+        
+    
+
+            var marker_ab76c3c8bb964c949b39b2f604f276a3 = L.marker(
+                [40.68385991,-73.97738457],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_fabb188c287c4c02a68b177f10e818c5 = L.popup({maxWidth: '300'});
+
+            
+                var html_8b6b8456f72c46189a834a434f99a2a0 = $('<div id="html_8b6b8456f72c46189a834a434f99a2a0" style="width: 100.0%; height: 100.0%;">Electronics StoreFri Jul 20 23:35:21 +0000 2012</div>')[0];
+                popup_fabb188c287c4c02a68b177f10e818c5.setContent(html_8b6b8456f72c46189a834a434f99a2a0);
+            
+
+            marker_ab76c3c8bb964c949b39b2f604f276a3.bindPopup(popup_fabb188c287c4c02a68b177f10e818c5);
+
+            
+        
+    
+
+            var marker_90cb393f0e1b4d0281de4679bdb19582 = L.marker(
+                [40.72026611,-73.99407864],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_afc95703296c461cac8b9eedf7b267f9 = L.popup({maxWidth: '300'});
+
+            
+                var html_583866db2f60477d8d72c20c82e61411 = $('<div id="html_583866db2f60477d8d72c20c82e61411" style="width: 100.0%; height: 100.0%;">SubwaySat May 05 20:22:15 +0000 2012</div>')[0];
+                popup_afc95703296c461cac8b9eedf7b267f9.setContent(html_583866db2f60477d8d72c20c82e61411);
+            
+
+            marker_90cb393f0e1b4d0281de4679bdb19582.bindPopup(popup_afc95703296c461cac8b9eedf7b267f9);
+
+            
+        
+    
+
+            var marker_2ffce00d011643e68ed4a674572a5baa = L.marker(
+                [40.69147465,-73.98738384],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_c4d76df7f0d544e8a5f8cf8e684820be = L.popup({maxWidth: '300'});
+
+            
+                var html_22a98c0b77114504b0e344a79e81e5fc = $('<div id="html_22a98c0b77114504b0e344a79e81e5fc" style="width: 100.0%; height: 100.0%;">SubwaySun Aug 05 09:41:13 +0000 2012</div>')[0];
+                popup_c4d76df7f0d544e8a5f8cf8e684820be.setContent(html_22a98c0b77114504b0e344a79e81e5fc);
+            
+
+            marker_2ffce00d011643e68ed4a674572a5baa.bindPopup(popup_c4d76df7f0d544e8a5f8cf8e684820be);
+
+            
+        
+    
+
+            var marker_ef955067d1c842728b214601445769e8 = L.marker(
+                [40.75762764,-73.98214817],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_67187173c15e4852a61556e2ee7234b3 = L.popup({maxWidth: '300'});
+
+            
+                var html_6f187cc637234c03ad0ff9f0b65d943c = $('<div id="html_6f187cc637234c03ad0ff9f0b65d943c" style="width: 100.0%; height: 100.0%;">Fast Food RestaurantWed Dec 19 06:30:22 +0000 2012</div>')[0];
+                popup_67187173c15e4852a61556e2ee7234b3.setContent(html_6f187cc637234c03ad0ff9f0b65d943c);
+            
+
+            marker_ef955067d1c842728b214601445769e8.bindPopup(popup_67187173c15e4852a61556e2ee7234b3);
+
+            
+        
+    
+
+            var marker_ee01d965db5841d6b6978207884e86ea = L.marker(
+                [40.57684371,-73.98132997],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_2112650101ad4ea18f4277c5c8ef6988 = L.popup({maxWidth: '300'});
+
+            
+                var html_fed098b6c17245b29e22953bf5e05c00 = $('<div id="html_fed098b6c17245b29e22953bf5e05c00" style="width: 100.0%; height: 100.0%;">BankSat Aug 18 21:40:14 +0000 2012</div>')[0];
+                popup_2112650101ad4ea18f4277c5c8ef6988.setContent(html_fed098b6c17245b29e22953bf5e05c00);
+            
+
+            marker_ee01d965db5841d6b6978207884e86ea.bindPopup(popup_2112650101ad4ea18f4277c5c8ef6988);
+
+            
+        
+    
+
+            var marker_51137c91d1f74d78a650fa6aa20883d8 = L.marker(
+                [40.71356548,-73.97236347],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_14623e73f2f3478eae4e726350414925 = L.popup({maxWidth: '300'});
+
+            
+                var html_5bd1381254c142f381975a8d695e5b8f = $('<div id="html_5bd1381254c142f381975a8d695e5b8f" style="width: 100.0%; height: 100.0%;">BridgeSat May 05 20:35:15 +0000 2012</div>')[0];
+                popup_14623e73f2f3478eae4e726350414925.setContent(html_5bd1381254c142f381975a8d695e5b8f);
+            
+
+            marker_51137c91d1f74d78a650fa6aa20883d8.bindPopup(popup_14623e73f2f3478eae4e726350414925);
+
+            
+        
+    
+
+            var marker_7c5ee3bbd0f74d83b5855d26a4accd32 = L.marker(
+                [40.7095643,-73.7980628],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_6ad0ceb49f884e2ba019f73b0a4897b7 = L.popup({maxWidth: '300'});
+
+            
+                var html_75facdac588b4ca58f77ec88a466c767 = $('<div id="html_75facdac588b4ca58f77ec88a466c767" style="width: 100.0%; height: 100.0%;">OfficeThu Apr 19 11:28:33 +0000 2012</div>')[0];
+                popup_6ad0ceb49f884e2ba019f73b0a4897b7.setContent(html_75facdac588b4ca58f77ec88a466c767);
+            
+
+            marker_7c5ee3bbd0f74d83b5855d26a4accd32.bindPopup(popup_6ad0ceb49f884e2ba019f73b0a4897b7);
+
+            
+        
+    
+
+            var marker_eff18a49aa8a4002b548822d57a47569 = L.marker(
+                [40.71343536,-73.95807266],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_d296ccf1fa0243cc9efec543c5126040 = L.popup({maxWidth: '300'});
+
+            
+                var html_61e9d27bff7144a68f1e9c418cd98737 = $('<div id="html_61e9d27bff7144a68f1e9c418cd98737" style="width: 100.0%; height: 100.0%;">NeighborhoodSat May 05 20:35:22 +0000 2012</div>')[0];
+                popup_d296ccf1fa0243cc9efec543c5126040.setContent(html_61e9d27bff7144a68f1e9c418cd98737);
+            
+
+            marker_eff18a49aa8a4002b548822d57a47569.bindPopup(popup_d296ccf1fa0243cc9efec543c5126040);
+
+            
+        
+    
+
+            var marker_a0244c3bc36e44678c3bf190353edb6d = L.marker(
+                [40.71346789,-73.97225618],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_75eaed33392a451c94293de8418fdd6f = L.popup({maxWidth: '300'});
+
+            
+                var html_b6ec50e57cbb40c5a423c14aabbb29a2 = $('<div id="html_b6ec50e57cbb40c5a423c14aabbb29a2" style="width: 100.0%; height: 100.0%;">BridgeSat May 05 20:35:30 +0000 2012</div>')[0];
+                popup_75eaed33392a451c94293de8418fdd6f.setContent(html_b6ec50e57cbb40c5a423c14aabbb29a2);
+            
+
+            marker_a0244c3bc36e44678c3bf190353edb6d.bindPopup(popup_75eaed33392a451c94293de8418fdd6f);
+
+            
+        
+    
+
+            var marker_2dcac1553ac74e508f11d3e7f3855249 = L.marker(
+                [40.7121837,-73.96777925],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_0b6fec5a126f4428a48a382aa9629b21 = L.popup({maxWidth: '300'});
+
+            
+                var html_26cab87d08524296bb6a97cf5999406d = $('<div id="html_26cab87d08524296bb6a97cf5999406d" style="width: 100.0%; height: 100.0%;">SubwaySat May 05 20:36:10 +0000 2012</div>')[0];
+                popup_0b6fec5a126f4428a48a382aa9629b21.setContent(html_26cab87d08524296bb6a97cf5999406d);
+            
+
+            marker_2dcac1553ac74e508f11d3e7f3855249.bindPopup(popup_0b6fec5a126f4428a48a382aa9629b21);
+
+            
+        
+    
+
+            var marker_d59771dc302e440792cdffde5541cd99 = L.marker(
+                [40.57495216,-73.98115779],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_6f3dc94e19e0459aa6cb3fdd7c7567fb = L.popup({maxWidth: '300'});
+
+            
+                var html_0d2ec4141c424669bbd040fa431538f6 = $('<div id="html_0d2ec4141c424669bbd040fa431538f6" style="width: 100.0%; height: 100.0%;">Miscellaneous ShopSat Aug 18 21:40:00 +0000 2012</div>')[0];
+                popup_6f3dc94e19e0459aa6cb3fdd7c7567fb.setContent(html_0d2ec4141c424669bbd040fa431538f6);
+            
+
+            marker_d59771dc302e440792cdffde5541cd99.bindPopup(popup_6f3dc94e19e0459aa6cb3fdd7c7567fb);
+
+            
+        
+    
+
+            var marker_22b51cd596ee4516b7aa33909dbd9bf1 = L.marker(
+                [40.71814377,-74.00015652],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_2fa1f5c286cb47cbb6fc9e6964f697bb = L.popup({maxWidth: '300'});
+
+            
+                var html_2762cdb44f1e45e0860e0ccb7c5262dc = $('<div id="html_2762cdb44f1e45e0860e0ccb7c5262dc" style="width: 100.0%; height: 100.0%;">SubwaySat May 05 20:21:30 +0000 2012</div>')[0];
+                popup_2fa1f5c286cb47cbb6fc9e6964f697bb.setContent(html_2762cdb44f1e45e0860e0ccb7c5262dc);
+            
+
+            marker_22b51cd596ee4516b7aa33909dbd9bf1.bindPopup(popup_2fa1f5c286cb47cbb6fc9e6964f697bb);
+
+            
+        
+    
+
+            var marker_947dab7e14924b7d9354e1314009a2ea = L.marker(
+                [40.71011732,-74.01186705],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_053f52a92f174e9c987b742bbc101938 = L.popup({maxWidth: '300'});
+
+            
+                var html_f20db30660784f5e8080d2913c16a124 = $('<div id="html_f20db30660784f5e8080d2913c16a124" style="width: 100.0%; height: 100.0%;">OfficeWed Jun 20 22:15:03 +0000 2012</div>')[0];
+                popup_053f52a92f174e9c987b742bbc101938.setContent(html_f20db30660784f5e8080d2913c16a124);
+            
+
+            marker_947dab7e14924b7d9354e1314009a2ea.bindPopup(popup_053f52a92f174e9c987b742bbc101938);
+
+            
+        
+    
+
+            var marker_8bf22d05f6174e849fb1e606df1044fd = L.marker(
+                [40.70771001,-74.01169538],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_ccd3409109ef41dfa70d2c9286354fe7 = L.popup({maxWidth: '300'});
+
+            
+                var html_8a4d0e787fed44a6b9cdf2f223b4a8b0 = $('<div id="html_8a4d0e787fed44a6b9cdf2f223b4a8b0" style="width: 100.0%; height: 100.0%;">SubwayWed Jun 20 22:11:03 +0000 2012</div>')[0];
+                popup_ccd3409109ef41dfa70d2c9286354fe7.setContent(html_8a4d0e787fed44a6b9cdf2f223b4a8b0);
+            
+
+            marker_8bf22d05f6174e849fb1e606df1044fd.bindPopup(popup_ccd3409109ef41dfa70d2c9286354fe7);
+
+            
+        
+    
+
+            var marker_19fd030f368448569e986a589edc0db5 = L.marker(
+                [40.57684371,-73.98132997],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_5ef6f3ab0e7a4d69ab13e1c19143b712 = L.popup({maxWidth: '300'});
+
+            
+                var html_3aa2f25db2644d17a40878fd4df7ce55 = $('<div id="html_3aa2f25db2644d17a40878fd4df7ce55" style="width: 100.0%; height: 100.0%;">BankFri May 25 18:39:09 +0000 2012</div>')[0];
+                popup_5ef6f3ab0e7a4d69ab13e1c19143b712.setContent(html_3aa2f25db2644d17a40878fd4df7ce55);
+            
+
+            marker_19fd030f368448569e986a589edc0db5.bindPopup(popup_5ef6f3ab0e7a4d69ab13e1c19143b712);
+
+            
+        
+    
+
+            var marker_dce966b106ac43caa1ad2d73716fa577 = L.marker(
+                [40.57334844,-73.98030281],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_a91d23c0f19d40a38f14811c6dfb607a = L.popup({maxWidth: '300'});
+
+            
+                var html_bb43eb0fe615452484e7869bded82a97 = $('<div id="html_bb43eb0fe615452484e7869bded82a97" style="width: 100.0%; height: 100.0%;">BeachSat Aug 18 21:28:48 +0000 2012</div>')[0];
+                popup_a91d23c0f19d40a38f14811c6dfb607a.setContent(html_bb43eb0fe615452484e7869bded82a97);
+            
+
+            marker_dce966b106ac43caa1ad2d73716fa577.bindPopup(popup_a91d23c0f19d40a38f14811c6dfb607a);
+
+            
+        
+    
+
+            var marker_2dbbb4e8811345628644da1114adf918 = L.marker(
+                [40.68430738,-73.9775978],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_c924ec59139b4a5dba691bc06cbd42fb = L.popup({maxWidth: '300'});
+
+            
+                var html_8688fca856154b60b6b5b19338a9cb28 = $('<div id="html_8688fca856154b60b6b5b19338a9cb28" style="width: 100.0%; height: 100.0%;">SubwayWed Jun 20 21:39:18 +0000 2012</div>')[0];
+                popup_c924ec59139b4a5dba691bc06cbd42fb.setContent(html_8688fca856154b60b6b5b19338a9cb28);
+            
+
+            marker_2dbbb4e8811345628644da1114adf918.bindPopup(popup_c924ec59139b4a5dba691bc06cbd42fb);
+
+            
+        
+    
+
+            var marker_b49ff9c9de5441b9bbeee62eb031ddd5 = L.marker(
+                [40.70661671,-73.79441211],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_8d9439872245463397a8769d4b87e131 = L.popup({maxWidth: '300'});
+
+            
+                var html_af387960f93a43c29f2b3aced021d40c = $('<div id="html_af387960f93a43c29f2b3aced021d40c" style="width: 100.0%; height: 100.0%;">BankMon Nov 26 20:57:02 +0000 2012</div>')[0];
+                popup_8d9439872245463397a8769d4b87e131.setContent(html_af387960f93a43c29f2b3aced021d40c);
+            
+
+            marker_b49ff9c9de5441b9bbeee62eb031ddd5.bindPopup(popup_8d9439872245463397a8769d4b87e131);
+
+            
+        
+    
+
+            var marker_be24f7207f714d8896387ddd394b2eda = L.marker(
+                [40.75762764,-73.98214817],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_986df647850348969b936a4ec28509b3 = L.popup({maxWidth: '300'});
+
+            
+                var html_c423ffc8370e4e809b67f1bd9cbdd791 = $('<div id="html_c423ffc8370e4e809b67f1bd9cbdd791" style="width: 100.0%; height: 100.0%;">Fast Food RestaurantTue Jan 22 03:49:43 +0000 2013</div>')[0];
+                popup_986df647850348969b936a4ec28509b3.setContent(html_c423ffc8370e4e809b67f1bd9cbdd791);
+            
+
+            marker_be24f7207f714d8896387ddd394b2eda.bindPopup(popup_986df647850348969b936a4ec28509b3);
+
+            
+        
+    
+
+            var marker_dad4946dad0c4fd39fa1de5b8d541784 = L.marker(
+                [40.75141877,-73.9912413],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_26586f299a024875b83e4c69278cdf7a = L.popup({maxWidth: '300'});
+
+            
+                var html_624ea5bcff16468ba895555c64a3cf85 = $('<div id="html_624ea5bcff16468ba895555c64a3cf85" style="width: 100.0%; height: 100.0%;">OfficeWed May 16 13:41:38 +0000 2012</div>')[0];
+                popup_26586f299a024875b83e4c69278cdf7a.setContent(html_624ea5bcff16468ba895555c64a3cf85);
+            
+
+            marker_dad4946dad0c4fd39fa1de5b8d541784.bindPopup(popup_26586f299a024875b83e4c69278cdf7a);
+
+            
+        
+    
+
+            var marker_cb9c1299429c4bf8b4817d07670efb17 = L.marker(
+                [40.57334844,-73.98030281],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_0dc4a723bd104a4aa3a676fc540fb7c6 = L.popup({maxWidth: '300'});
+
+            
+                var html_608671971fad4f97a720966c93338745 = $('<div id="html_608671971fad4f97a720966c93338745" style="width: 100.0%; height: 100.0%;">BeachFri May 25 18:01:03 +0000 2012</div>')[0];
+                popup_0dc4a723bd104a4aa3a676fc540fb7c6.setContent(html_608671971fad4f97a720966c93338745);
+            
+
+            marker_cb9c1299429c4bf8b4817d07670efb17.bindPopup(popup_0dc4a723bd104a4aa3a676fc540fb7c6);
+
+            
+        
+    
+
+            var marker_7175c80b1ab34cdf8a4f934bc438b5bd = L.marker(
+                [40.65367057,-74.00522649],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_9c8b6bb7eab1498da7cc58ef095259c9 = L.popup({maxWidth: '300'});
+
+            
+                var html_0465dddcfc46495e9b38b5a8a7ab4a85 = $('<div id="html_0465dddcfc46495e9b38b5a8a7ab4a85" style="width: 100.0%; height: 100.0%;">Fast Food RestaurantFri May 18 22:50:25 +0000 2012</div>')[0];
+                popup_9c8b6bb7eab1498da7cc58ef095259c9.setContent(html_0465dddcfc46495e9b38b5a8a7ab4a85);
+            
+
+            marker_7175c80b1ab34cdf8a4f934bc438b5bd.bindPopup(popup_9c8b6bb7eab1498da7cc58ef095259c9);
+
+            
+        
+    
+
+            var marker_93f8b1256bfe4d788a1327cb87596ee0 = L.marker(
+                [40.75305626,-73.97760519],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_cf1bfed60adf46758d877df539168d80 = L.popup({maxWidth: '300'});
+
+            
+                var html_d36bf8459cb54e8cb26c85b0c53993d5 = $('<div id="html_d36bf8459cb54e8cb26c85b0c53993d5" style="width: 100.0%; height: 100.0%;">Chinese RestaurantMon Jan 21 23:23:43 +0000 2013</div>')[0];
+                popup_cf1bfed60adf46758d877df539168d80.setContent(html_d36bf8459cb54e8cb26c85b0c53993d5);
+            
+
+            marker_93f8b1256bfe4d788a1327cb87596ee0.bindPopup(popup_cf1bfed60adf46758d877df539168d80);
+
+            
+        
+    
+
+            var marker_88f0fe2cff544a96b559a265ccfc8d7d = L.marker(
+                [40.75141877,-73.9912413],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_6d0c2695440f4431a643c311dd30be33 = L.popup({maxWidth: '300'});
+
+            
+                var html_4816e11dd9ef426cacd983c398af501a = $('<div id="html_4816e11dd9ef426cacd983c398af501a" style="width: 100.0%; height: 100.0%;">OfficeThu May 03 15:17:31 +0000 2012</div>')[0];
+                popup_6d0c2695440f4431a643c311dd30be33.setContent(html_4816e11dd9ef426cacd983c398af501a);
+            
+
+            marker_88f0fe2cff544a96b559a265ccfc8d7d.bindPopup(popup_6d0c2695440f4431a643c311dd30be33);
+
+            
+        
+    
+
+            var marker_374adc73345a469c971469adfe7bbcf0 = L.marker(
+                [40.75874862,-73.97859809],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_42171ae0fdc248f7a5511c025f1e9c52 = L.popup({maxWidth: '300'});
+
+            
+                var html_c8ddd486be0e4f93bf61b246e298b8cb = $('<div id="html_c8ddd486be0e4f93bf61b246e298b8cb" style="width: 100.0%; height: 100.0%;">PlazaTue Jan 22 03:48:46 +0000 2013</div>')[0];
+                popup_42171ae0fdc248f7a5511c025f1e9c52.setContent(html_c8ddd486be0e4f93bf61b246e298b8cb);
+            
+
+            marker_374adc73345a469c971469adfe7bbcf0.bindPopup(popup_42171ae0fdc248f7a5511c025f1e9c52);
+
+            
+        
+    
+
+            var marker_0aad75fcf4a74ceebfb5baf36f23b582 = L.marker(
+                [40.7095643,-73.7980628],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_484dfb1d5301403ab5be993c9c949d25 = L.popup({maxWidth: '300'});
+
+            
+                var html_58f76c7ccc2d4af7899c4bf21ee51772 = $('<div id="html_58f76c7ccc2d4af7899c4bf21ee51772" style="width: 100.0%; height: 100.0%;">OfficeSat May 12 11:45:22 +0000 2012</div>')[0];
+                popup_484dfb1d5301403ab5be993c9c949d25.setContent(html_58f76c7ccc2d4af7899c4bf21ee51772);
+            
+
+            marker_0aad75fcf4a74ceebfb5baf36f23b582.bindPopup(popup_484dfb1d5301403ab5be993c9c949d25);
+
+            
+        
+    
+
+            var marker_2b285c4142274e949839891822586e8a = L.marker(
+                [40.70022217,-73.94742555],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_ff39dea4bc8947e993f3cf5cd8f86c22 = L.popup({maxWidth: '300'});
+
+            
+                var html_eb18bbf2a7194bd3aa2a3abf0d8df14e = $('<div id="html_eb18bbf2a7194bd3aa2a3abf0d8df14e" style="width: 100.0%; height: 100.0%;">Deli / BodegaWed Apr 11 19:34:43 +0000 2012</div>')[0];
+                popup_ff39dea4bc8947e993f3cf5cd8f86c22.setContent(html_eb18bbf2a7194bd3aa2a3abf0d8df14e);
+            
+
+            marker_2b285c4142274e949839891822586e8a.bindPopup(popup_ff39dea4bc8947e993f3cf5cd8f86c22);
+
+            
+        
+    
+
+            var marker_e799fb2e92014852836f7545f64726f8 = L.marker(
+                [40.71424858,-73.95375967],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_e369c9583a7649fd902947e12d99e2cf = L.popup({maxWidth: '300'});
+
+            
+                var html_4393128eb3b649e3a8f157b0ebe39369 = $('<div id="html_4393128eb3b649e3a8f157b0ebe39369" style="width: 100.0%; height: 100.0%;">NeighborhoodThu Jun 21 12:05:01 +0000 2012</div>')[0];
+                popup_e369c9583a7649fd902947e12d99e2cf.setContent(html_4393128eb3b649e3a8f157b0ebe39369);
+            
+
+            marker_e799fb2e92014852836f7545f64726f8.bindPopup(popup_e369c9583a7649fd902947e12d99e2cf);
+
+            
+        
+    
+
+            var marker_840dad29463548ffa106afea50f06185 = L.marker(
+                [40.70541414,-73.94938295],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_5f7530ae05874a98a36144ce63778f56 = L.popup({maxWidth: '300'});
+
+            
+                var html_03c602c68ec0470eae0a76a663eeee9a = $('<div id="html_03c602c68ec0470eae0a76a663eeee9a" style="width: 100.0%; height: 100.0%;">SubwayThu Jun 21 12:04:19 +0000 2012</div>')[0];
+                popup_5f7530ae05874a98a36144ce63778f56.setContent(html_03c602c68ec0470eae0a76a663eeee9a);
+            
+
+            marker_840dad29463548ffa106afea50f06185.bindPopup(popup_5f7530ae05874a98a36144ce63778f56);
+
+            
+        
+    
+
+            var marker_a75291af28ba4b93803d78628026f17b = L.marker(
+                [40.7095643,-73.7980628],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_92d0bb6eb91643cda33a2ceef0c13ba7 = L.popup({maxWidth: '300'});
+
+            
+                var html_6f8627e5ea36489c84b99c7b9ac10688 = $('<div id="html_6f8627e5ea36489c84b99c7b9ac10688" style="width: 100.0%; height: 100.0%;">OfficeThu Jun 21 12:04:04 +0000 2012</div>')[0];
+                popup_92d0bb6eb91643cda33a2ceef0c13ba7.setContent(html_6f8627e5ea36489c84b99c7b9ac10688);
+            
+
+            marker_a75291af28ba4b93803d78628026f17b.bindPopup(popup_92d0bb6eb91643cda33a2ceef0c13ba7);
+
+            
+        
+    
+
+            var marker_06378b6ebc714dc7989f2fbe0d91739b = L.marker(
+                [40.70240711,-73.79997253],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_798387a5431e44e0b51d09f6bbacf4fa = L.popup({maxWidth: '300'});
+
+            
+                var html_2675cd4885844ef188f5b81fc825d290 = $('<div id="html_2675cd4885844ef188f5b81fc825d290" style="width: 100.0%; height: 100.0%;">SubwayThu Dec 20 00:58:16 +0000 2012</div>')[0];
+                popup_798387a5431e44e0b51d09f6bbacf4fa.setContent(html_2675cd4885844ef188f5b81fc825d290);
+            
+
+            marker_06378b6ebc714dc7989f2fbe0d91739b.bindPopup(popup_798387a5431e44e0b51d09f6bbacf4fa);
+
+            
+        
+    
+
+            var marker_7d43bffc97ab4e77a83144f547aa720f = L.marker(
+                [40.68334974,-73.97502249],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_ceb5f6d64a514f0aa32c2d85fd1ebf76 = L.popup({maxWidth: '300'});
+
+            
+                var html_4449d457a6e842789f5cf98ff2a31e0c = $('<div id="html_4449d457a6e842789f5cf98ff2a31e0c" style="width: 100.0%; height: 100.0%;">Electronics StoreFri Jul 20 23:33:59 +0000 2012</div>')[0];
+                popup_ceb5f6d64a514f0aa32c2d85fd1ebf76.setContent(html_4449d457a6e842789f5cf98ff2a31e0c);
+            
+
+            marker_7d43bffc97ab4e77a83144f547aa720f.bindPopup(popup_ceb5f6d64a514f0aa32c2d85fd1ebf76);
+
+            
+        
+    
+
+            var marker_7749d934e21f4706a63474da84a82642 = L.marker(
+                [40.68428103,-73.97646307],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_f18d6381edff407d9a79d6092b188704 = L.popup({maxWidth: '300'});
+
+            
+                var html_e97695774f0e45a3bccfa7d2559eca99 = $('<div id="html_e97695774f0e45a3bccfa7d2559eca99" style="width: 100.0%; height: 100.0%;">Department StoreFri Jul 20 23:33:42 +0000 2012</div>')[0];
+                popup_f18d6381edff407d9a79d6092b188704.setContent(html_e97695774f0e45a3bccfa7d2559eca99);
+            
+
+            marker_7749d934e21f4706a63474da84a82642.bindPopup(popup_f18d6381edff407d9a79d6092b188704);
+
+            
+        
+    
+
+            var marker_56df5ec1ca14403895c68e30b5c9c977 = L.marker(
+                [40.75280621,-73.97717535],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_df27ea1f83d444d69a5f2108ecad6188 = L.popup({maxWidth: '300'});
+
+            
+                var html_0c14afed922546f8af2fe61c0e8182fd = $('<div id="html_0c14afed922546f8af2fe61c0e8182fd" style="width: 100.0%; height: 100.0%;">Train StationMon Jan 21 21:34:17 +0000 2013</div>')[0];
+                popup_df27ea1f83d444d69a5f2108ecad6188.setContent(html_0c14afed922546f8af2fe61c0e8182fd);
+            
+
+            marker_56df5ec1ca14403895c68e30b5c9c977.bindPopup(popup_df27ea1f83d444d69a5f2108ecad6188);
+
+            
+        
+    
+
+            var marker_45dc0a0137114423a682afd5d9b146eb = L.marker(
+                [40.68444569,-73.97785664],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_2613bceea71d4d6aa1100c5a53fc6344 = L.popup({maxWidth: '300'});
+
+            
+                var html_38d8db0cf27c4d5aae63ba33dcbe6646 = $('<div id="html_38d8db0cf27c4d5aae63ba33dcbe6646" style="width: 100.0%; height: 100.0%;">Train StationFri Jul 20 23:33:30 +0000 2012</div>')[0];
+                popup_2613bceea71d4d6aa1100c5a53fc6344.setContent(html_38d8db0cf27c4d5aae63ba33dcbe6646);
+            
+
+            marker_45dc0a0137114423a682afd5d9b146eb.bindPopup(popup_2613bceea71d4d6aa1100c5a53fc6344);
+
+            
+        
+    
+
+            var marker_8f60c6d895b64d3b920c06b639bdcd2d = L.marker(
+                [40.74722445,-73.94382477],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_93e7c73378094301bd76a1a4a197f143 = L.popup({maxWidth: '300'});
+
+            
+                var html_317ba4a5f42b4d19b8da8263a7671770 = $('<div id="html_317ba4a5f42b4d19b8da8263a7671770" style="width: 100.0%; height: 100.0%;">OfficeSun Apr 29 16:34:30 +0000 2012</div>')[0];
+                popup_93e7c73378094301bd76a1a4a197f143.setContent(html_317ba4a5f42b4d19b8da8263a7671770);
+            
+
+            marker_8f60c6d895b64d3b920c06b639bdcd2d.bindPopup(popup_93e7c73378094301bd76a1a4a197f143);
+
+            
+        
+    
+
+            var marker_eb62edaa58914e83b34b54c7b3adae76 = L.marker(
+                [40.67026755,-73.98977637],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_a5cd3e786ef64840a012b5abf788f24b = L.popup({maxWidth: '300'});
+
+            
+                var html_2594326be935477ab6753f21b343ce5a = $('<div id="html_2594326be935477ab6753f21b343ce5a" style="width: 100.0%; height: 100.0%;">SubwaySat May 26 02:39:01 +0000 2012</div>')[0];
+                popup_a5cd3e786ef64840a012b5abf788f24b.setContent(html_2594326be935477ab6753f21b343ce5a);
+            
+
+            marker_eb62edaa58914e83b34b54c7b3adae76.bindPopup(popup_a5cd3e786ef64840a012b5abf788f24b);
+
+            
+        
+    
+
+            var marker_68edcf097628417d9147d82cc1a0e60e = L.marker(
+                [40.75277927,-73.97710013],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_3bdad0bbcd1d4d759629ff77e897eaca = L.popup({maxWidth: '300'});
+
+            
+                var html_5b01e19fc1b8467b8d1c4cc9b2b8636c = $('<div id="html_5b01e19fc1b8467b8d1c4cc9b2b8636c" style="width: 100.0%; height: 100.0%;">Miscellaneous ShopSun Jun 03 22:52:31 +0000 2012</div>')[0];
+                popup_3bdad0bbcd1d4d759629ff77e897eaca.setContent(html_5b01e19fc1b8467b8d1c4cc9b2b8636c);
+            
+
+            marker_68edcf097628417d9147d82cc1a0e60e.bindPopup(popup_3bdad0bbcd1d4d759629ff77e897eaca);
+
+            
+        
+    
+
+            var marker_544c661137404618bc68ec12480cc2ed = L.marker(
+                [40.57745558,-73.98124695],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_ebdfd4bba78248d2b63c1cb14b108341 = L.popup({maxWidth: '300'});
+
+            
+                var html_48c5b828bbb248adbb81788761074150 = $('<div id="html_48c5b828bbb248adbb81788761074150" style="width: 100.0%; height: 100.0%;">SubwaySat May 26 02:38:36 +0000 2012</div>')[0];
+                popup_ebdfd4bba78248d2b63c1cb14b108341.setContent(html_48c5b828bbb248adbb81788761074150);
+            
+
+            marker_544c661137404618bc68ec12480cc2ed.bindPopup(popup_ebdfd4bba78248d2b63c1cb14b108341);
+
+            
+        
+    
+
+            var marker_26dc9c2a5828444c8a6e04a86fd6a25b = L.marker(
+                [40.65394681,-74.00453787],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_da2529ec26ee4ce8a247584740226468 = L.popup({maxWidth: '300'});
+
+            
+                var html_66487c3f7b6b45c6b989032f15a69659 = $('<div id="html_66487c3f7b6b45c6b989032f15a69659" style="width: 100.0%; height: 100.0%;">SubwayFri May 18 22:49:38 +0000 2012</div>')[0];
+                popup_da2529ec26ee4ce8a247584740226468.setContent(html_66487c3f7b6b45c6b989032f15a69659);
+            
+
+            marker_26dc9c2a5828444c8a6e04a86fd6a25b.bindPopup(popup_da2529ec26ee4ce8a247584740226468);
+
+            
+        
+    
+
+            var marker_31b4f1365d9b47198036d85278b36b6e = L.marker(
+                [40.70606022,-73.79310232],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_21a1a62f5cab4904be8bcc2cec702c6d = L.popup({maxWidth: '300'});
+
+            
+                var html_df9e4cf8633443d2a1e38c00ed6c4d03 = $('<div id="html_df9e4cf8633443d2a1e38c00ed6c4d03" style="width: 100.0%; height: 100.0%;">Fast Food RestaurantThu Nov 15 20:24:02 +0000 2012</div>')[0];
+                popup_21a1a62f5cab4904be8bcc2cec702c6d.setContent(html_df9e4cf8633443d2a1e38c00ed6c4d03);
+            
+
+            marker_31b4f1365d9b47198036d85278b36b6e.bindPopup(popup_21a1a62f5cab4904be8bcc2cec702c6d);
+
+            
+        
+    
+
+            var marker_adb7f0ce33b54adf8c61165cd91ac192 = L.marker(
+                [40.66039193,-73.99806976],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_7f8e3f67e42f4c91ada09d03d9e9fc66 = L.popup({maxWidth: '300'});
+
+            
+                var html_67dc1ae8c8264afc8d2dbacefc609b33 = $('<div id="html_67dc1ae8c8264afc8d2dbacefc609b33" style="width: 100.0%; height: 100.0%;">SubwayThu May 03 15:17:19 +0000 2012</div>')[0];
+                popup_7f8e3f67e42f4c91ada09d03d9e9fc66.setContent(html_67dc1ae8c8264afc8d2dbacefc609b33);
+            
+
+            marker_adb7f0ce33b54adf8c61165cd91ac192.bindPopup(popup_7f8e3f67e42f4c91ada09d03d9e9fc66);
+
+            
+        
+    
+
+            var marker_bddc4f58a18947f191c5d5f5fd2726e5 = L.marker(
+                [40.64899391,-74.014969],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_27b031a789b8409e9f3886300a73331c);
+            
+    
+            var popup_f170c09772a949cf94ab75d550931a72 = L.popup({maxWidth: '300'});
+
+            
+                var html_ba23b003452c4c69afb7afac0b80d29a = $('<div id="html_ba23b003452c4c69afb7afac0b80d29a" style="width: 100.0%; height: 100.0%;">General TravelFri May 18 22:50:03 +0000 2012</div>')[0];
+                popup_f170c09772a949cf94ab75d550931a72.setContent(html_ba23b003452c4c69afb7afac0b80d29a);
+            
+
+            marker_bddc4f58a18947f191c5d5f5fd2726e5.bindPopup(popup_f170c09772a949cf94ab75d550931a72);
+
+            
+        
+</script>

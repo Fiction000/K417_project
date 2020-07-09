@@ -1,0 +1,12 @@
+Subway Convenience Store,Train Station,21,1.0
+Convenience Store,Train Station Subway,21,0.9130434782608695
+Train Station Convenience Store,Subway,21,0.9545454545454546
+Subway Mall,Train Station,27,0.9
+Mall,Train Station Subway,27,0.8709677419354839
+Train Station Mall,Subway,27,1.0
+Convenience Store,Subway,21,0.9130434782608695
+Convenience Store,Train Station,22,0.9565217391304348
+Mall,Subway,30,0.967741935483871
+Mall,Train Station,27,0.8709677419354839
+Subway,Train Station,50,0.9259259259259259
+Train Station,Subway,50,0.8620689655172413

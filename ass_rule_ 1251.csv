@@ -1,0 +1,14 @@
+Road Other Great Outdoors,Travel & Transport,21,1.0
+Other Great Outdoors,Travel & Transport Road,21,0.8076923076923077
+Travel & Transport Other Great Outdoors,Road,21,0.9130434782608695
+Travel & Transport Road,Other Great Outdoors,21,0.7241379310344828
+Travel & Transport Road,Train Station,23,0.7931034482758621
+Train Station Road,Travel & Transport,23,0.8518518518518519
+Train Station Travel & Transport,Road,23,0.8214285714285714
+Other Great Outdoors,Road,21,0.8076923076923077
+Other Great Outdoors,Travel & Transport,23,0.8846153846153846
+Other Great Outdoors,Train Station,22,0.8461538461538461
+Road,Travel & Transport,29,0.8787878787878788
+Travel & Transport,Road,29,0.8529411764705882
+Road,Train Station,27,0.8181818181818182
+Travel & Transport,Train Station,28,0.8235294117647058

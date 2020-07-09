@@ -1,0 +1,36 @@
+Government Building Convenience Store Scenic Lookout,Train Station,41,1.0
+Convenience Store Scenic Lookout,Train Station Government Building,41,1.0
+Scenic Lookout,Train Station Government Building Convenience Store,41,0.8913043478260869
+Government Building Scenic Lookout,Train Station Convenience Store,41,0.8913043478260869
+Government Building Convenience Store,Train Station Scenic Lookout,41,0.7068965517241379
+Train Station Convenience Store Scenic Lookout,Government Building,41,1.0
+Train Station Scenic Lookout,Government Building Convenience Store,41,0.9111111111111111
+Train Station Convenience Store,Government Building Scenic Lookout,41,0.7068965517241379
+Train Station Government Building Scenic Lookout,Convenience Store,41,0.9111111111111111
+Train Station Government Building Convenience Store,Scenic Lookout,41,0.7068965517241379
+Convenience Store Scenic Lookout,Government Building,41,1.0
+Scenic Lookout,Government Building Convenience Store,41,0.8913043478260869
+Government Building Scenic Lookout,Convenience Store,41,0.8913043478260869
+Government Building Convenience Store,Scenic Lookout,41,0.7068965517241379
+Convenience Store Scenic Lookout,Train Station,41,1.0
+Scenic Lookout,Train Station Convenience Store,41,0.8913043478260869
+Train Station Scenic Lookout,Convenience Store,41,0.9111111111111111
+Train Station Convenience Store,Scenic Lookout,41,0.7068965517241379
+Government Building Scenic Lookout,Train Station,45,0.9782608695652174
+Scenic Lookout,Train Station Government Building,45,0.9782608695652174
+Train Station Scenic Lookout,Government Building,45,1.0
+Government Building Convenience Store,Train Station,58,1.0
+Convenience Store,Train Station Government Building,58,0.9666666666666667
+Government Building,Train Station Convenience Store,58,0.8787878787878788
+Train Station Convenience Store,Government Building,58,1.0
+Train Station,Government Building Convenience Store,58,0.8656716417910447
+Train Station Government Building,Convenience Store,58,0.8923076923076924
+Scenic Lookout,Convenience Store,41,0.8913043478260869
+Scenic Lookout,Government Building,46,1.0
+Scenic Lookout,Train Station,45,0.9782608695652174
+Convenience Store,Government Building,58,0.9666666666666667
+Government Building,Convenience Store,58,0.8787878787878788
+Convenience Store,Train Station,58,0.9666666666666667
+Train Station,Convenience Store,58,0.8656716417910447
+Government Building,Train Station,65,0.9848484848484849
+Train Station,Government Building,65,0.9701492537313433

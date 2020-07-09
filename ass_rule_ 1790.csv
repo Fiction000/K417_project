@@ -1,0 +1,61 @@
+Road Mall Bridge,Train Station,20,0.9523809523809523
+Mall Bridge,Train Station Road,20,0.8695652173913043
+Mall,Train Station Road Bridge,20,0.7407407407407407
+Road Mall,Train Station Bridge,20,0.8
+Train Station Mall Bridge,Road,20,0.9090909090909091
+Train Station Mall,Road Bridge,20,0.7692307692307693
+Train Station Road Bridge,Mall,20,0.7142857142857143
+Train Station Road Mall,Bridge,20,0.8333333333333334
+Road Convenience Store Bridge,Train Station,21,0.9545454545454546
+Convenience Store Bridge,Train Station Road,21,0.84
+Road Convenience Store,Train Station Bridge,21,0.84
+Train Station Convenience Store Bridge,Road,21,0.875
+Train Station Convenience Store,Road Bridge,21,0.7
+Train Station Road Bridge,Convenience Store,21,0.75
+Train Station Road Convenience Store,Bridge,21,0.875
+Mall Bridge,Road,21,0.9130434782608695
+Mall,Road Bridge,21,0.7777777777777778
+Road Mall,Bridge,21,0.84
+Mall Bridge,Train Station,22,0.9565217391304348
+Mall,Train Station Bridge,22,0.8148148148148148
+Train Station Bridge,Mall,22,0.7096774193548387
+Train Station Mall,Bridge,22,0.8461538461538461
+Road Mall,Train Station,24,0.96
+Mall,Train Station Road,24,0.8888888888888888
+Train Station Mall,Road,24,0.9230769230769231
+Train Station Road,Mall,24,0.7272727272727273
+Convenience Store Bridge,Road,22,0.88
+Road Bridge,Convenience Store,22,0.7096774193548387
+Road Convenience Store,Bridge,22,0.88
+Convenience Store Bridge,Train Station,24,0.96
+Bridge,Train Station Convenience Store,24,0.7058823529411765
+Convenience Store,Train Station Bridge,24,0.75
+Train Station Bridge,Convenience Store,24,0.7741935483870968
+Train Station Convenience Store,Bridge,24,0.8
+Road Convenience Store,Train Station,24,0.96
+Convenience Store,Train Station Road,24,0.75
+Train Station Convenience Store,Road,24,0.8
+Train Station Road,Convenience Store,24,0.7272727272727273
+Road Bridge,Train Station,28,0.9032258064516129
+Bridge,Train Station Road,28,0.8235294117647058
+Road,Train Station Bridge,28,0.7567567567567568
+Train Station Bridge,Road,28,0.9032258064516129
+Train Station Road,Bridge,28,0.8484848484848485
+Park,Road,20,0.9523809523809523
+Historic Site,Bridge,20,0.7692307692307693
+Historic Site,Road,22,0.8461538461538461
+Historic Site,Train Station,23,0.8846153846153846
+Mall,Bridge,23,0.8518518518518519
+Mall,Road,25,0.9259259259259259
+Mall,Train Station,26,0.9629629629629629
+Bridge,Convenience Store,25,0.7352941176470589
+Convenience Store,Bridge,25,0.78125
+Convenience Store,Road,25,0.78125
+Convenience Store,Train Station,30,0.9375
+Train Station,Convenience Store,30,0.7317073170731707
+Bridge,Road,31,0.9117647058823529
+Road,Bridge,31,0.8378378378378378
+Bridge,Train Station,31,0.9117647058823529
+Train Station,Bridge,31,0.7560975609756098
+Road,Train Station,33,0.8918918918918919
+Train Station,Road,33,0.8048780487804879

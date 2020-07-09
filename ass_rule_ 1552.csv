@@ -1,0 +1,34 @@
+Train Station Subway Bus Station,Building,24,0.8888888888888888
+Subway Bus Station,Building Train Station,24,0.8275862068965517
+Subway,Building Train Station Bus Station,24,0.8275862068965517
+Train Station Subway,Building Bus Station,24,0.8888888888888888
+Building Subway Bus Station,Train Station,24,0.96
+Building Bus Station,Train Station Subway,24,0.7058823529411765
+Building Subway,Train Station Bus Station,24,0.96
+Building Train Station Bus Station,Subway,24,0.7272727272727273
+Building Train Station,Subway Bus Station,24,0.7272727272727273
+Building Train Station Subway,Bus Station,24,1.0
+Train Station Subway,Building,24,0.8888888888888888
+Subway,Building Train Station,24,0.8275862068965517
+Building Subway,Train Station,24,0.96
+Building Train Station,Subway,24,0.7272727272727273
+Subway Bus Station,Building,25,0.8620689655172413
+Subway,Building Bus Station,25,0.8620689655172413
+Building Bus Station,Subway,25,0.7352941176470589
+Building,Subway Bus Station,25,0.7142857142857143
+Building Subway,Bus Station,25,1.0
+Subway Bus Station,Train Station,27,0.9310344827586207
+Subway,Train Station Bus Station,27,0.9310344827586207
+Train Station Subway,Bus Station,27,1.0
+Building Bus Station,Train Station,33,0.9705882352941176
+Building,Train Station Bus Station,33,0.9428571428571428
+Building Train Station,Bus Station,33,1.0
+Café,Bus Station,21,1.0
+Subway,Building,25,0.8620689655172413
+Building,Subway,25,0.7142857142857143
+Subway,Train Station,27,0.9310344827586207
+Subway,Bus Station,29,1.0
+Building,Train Station,33,0.9428571428571428
+Building,Bus Station,34,0.9714285714285714
+Bus Station,Train Station,54,0.9642857142857143
+Train Station,Bus Station,54,0.9818181818181818

@@ -1,0 +1,584 @@
+Train Station Mall Road Other Great Outdoors Bridge,Park,23,0.92
+Mall Road Other Great Outdoors Bridge,Park Train Station,23,0.8846153846153846
+Mall Other Great Outdoors Bridge,Park Train Station Road,23,0.8518518518518519
+Mall Bridge,Park Train Station Road Other Great Outdoors,23,0.8518518518518519
+Mall,Park Train Station Road Other Great Outdoors Bridge,23,0.8518518518518519
+Mall Other Great Outdoors,Park Train Station Road Bridge,23,0.8518518518518519
+Road Mall Bridge,Park Train Station Other Great Outdoors,23,0.8846153846153846
+Road Mall,Park Train Station Other Great Outdoors Bridge,23,0.8846153846153846
+Road Mall Other Great Outdoors,Park Train Station Bridge,23,0.8846153846153846
+Train Station Mall Other Great Outdoors Bridge,Park Road,23,0.8846153846153846
+Train Station Mall Bridge,Park Road Other Great Outdoors,23,0.8846153846153846
+Train Station Mall,Park Road Other Great Outdoors Bridge,23,0.8846153846153846
+Train Station Mall Other Great Outdoors,Park Road Bridge,23,0.8846153846153846
+Train Station Mall Road Bridge,Park Other Great Outdoors,23,0.92
+Train Station Road Mall,Park Other Great Outdoors Bridge,23,0.92
+Train Station Mall Road Other Great Outdoors,Park Bridge,23,0.92
+Park Mall Road Other Great Outdoors Bridge,Train Station,23,1.0
+Park Road Other Great Outdoors Bridge,Train Station Mall,23,0.7666666666666667
+Park Other Great Outdoors Bridge,Train Station Road Mall,23,0.71875
+Park Bridge,Train Station Road Mall Other Great Outdoors,23,0.71875
+Park Road Bridge,Train Station Mall Other Great Outdoors,23,0.7666666666666667
+Park Road,Train Station Mall Other Great Outdoors Bridge,23,0.7666666666666667
+Park Road Other Great Outdoors,Train Station Mall Bridge,23,0.7666666666666667
+Park Mall Other Great Outdoors Bridge,Train Station Road,23,0.9583333333333334
+Park Mall Bridge,Train Station Road Other Great Outdoors,23,0.9583333333333334
+Park Mall,Train Station Road Other Great Outdoors Bridge,23,0.9583333333333334
+Park Mall Other Great Outdoors,Train Station Road Bridge,23,0.9583333333333334
+Park Mall Road Bridge,Train Station Other Great Outdoors,23,1.0
+Park Road Mall,Train Station Other Great Outdoors Bridge,23,1.0
+Park Mall Road Other Great Outdoors,Train Station Bridge,23,1.0
+Park Train Station Road Other Great Outdoors Bridge,Mall,23,0.7931034482758621
+Park Train Station Other Great Outdoors Bridge,Road Mall,23,0.7419354838709677
+Park Train Station Bridge,Road Mall Other Great Outdoors,23,0.7419354838709677
+Park Train Station,Road Mall Other Great Outdoors Bridge,23,0.71875
+Park Train Station Other Great Outdoors,Road Mall Bridge,23,0.71875
+Park Train Station Road Bridge,Mall Other Great Outdoors,23,0.7931034482758621
+Park Train Station Road,Mall Other Great Outdoors Bridge,23,0.7931034482758621
+Park Train Station Road Other Great Outdoors,Mall Bridge,23,0.7931034482758621
+Park Train Station Mall Other Great Outdoors Bridge,Road,23,0.9583333333333334
+Park Train Station Mall Bridge,Road Other Great Outdoors,23,0.9583333333333334
+Park Train Station Mall,Road Other Great Outdoors Bridge,23,0.9583333333333334
+Park Train Station Mall Other Great Outdoors,Road Bridge,23,0.9583333333333334
+Park Train Station Mall Road Bridge,Other Great Outdoors,23,1.0
+Park Train Station Mall Road,Other Great Outdoors Bridge,23,1.0
+Park Train Station Mall Road Other Great Outdoors,Bridge,23,1.0
+Mall Road Other Great Outdoors Bridge,Park,23,0.8846153846153846
+Mall Other Great Outdoors Bridge,Park Road,23,0.8518518518518519
+Mall Bridge,Park Road Other Great Outdoors,23,0.8518518518518519
+Mall,Park Road Other Great Outdoors Bridge,23,0.8518518518518519
+Mall Other Great Outdoors,Park Road Bridge,23,0.8518518518518519
+Road Mall Bridge,Park Other Great Outdoors,23,0.8846153846153846
+Road Mall,Park Other Great Outdoors Bridge,23,0.8846153846153846
+Road Mall Other Great Outdoors,Park Bridge,23,0.8846153846153846
+Park Road Other Great Outdoors Bridge,Mall,23,0.7666666666666667
+Park Other Great Outdoors Bridge,Road Mall,23,0.71875
+Park Bridge,Road Mall Other Great Outdoors,23,0.71875
+Park Road Bridge,Mall Other Great Outdoors,23,0.7666666666666667
+Park Road,Mall Other Great Outdoors Bridge,23,0.7666666666666667
+Park Road Other Great Outdoors,Mall Bridge,23,0.7666666666666667
+Park Mall Other Great Outdoors Bridge,Road,23,0.9583333333333334
+Park Mall Bridge,Road Other Great Outdoors,23,0.9583333333333334
+Park Mall,Road Other Great Outdoors Bridge,23,0.9583333333333334
+Park Mall Other Great Outdoors,Road Bridge,23,0.9583333333333334
+Park Mall Road Bridge,Other Great Outdoors,23,1.0
+Park Road Mall,Other Great Outdoors Bridge,23,1.0
+Park Mall Road Other Great Outdoors,Bridge,23,1.0
+Train Station Mall Road Bridge,Park,23,0.92
+Road Mall Bridge,Park Train Station,23,0.8846153846153846
+Mall Bridge,Park Train Station Road,23,0.8518518518518519
+Mall,Park Train Station Road Bridge,23,0.8518518518518519
+Road Mall,Park Train Station Bridge,23,0.8846153846153846
+Train Station Mall Bridge,Park Road,23,0.8846153846153846
+Train Station Mall,Park Road Bridge,23,0.8846153846153846
+Train Station Road Mall,Park Bridge,23,0.92
+Park Mall Road Bridge,Train Station,23,1.0
+Park Road Bridge,Train Station Mall,23,0.7666666666666667
+Park Bridge,Train Station Road Mall,23,0.71875
+Park Road,Train Station Mall Bridge,23,0.7666666666666667
+Park Mall Bridge,Train Station Road,23,0.9583333333333334
+Park Mall,Train Station Road Bridge,23,0.9583333333333334
+Park Road Mall,Train Station Bridge,23,1.0
+Park Train Station Road Bridge,Mall,23,0.7931034482758621
+Park Train Station Bridge,Road Mall,23,0.7419354838709677
+Park Train Station,Road Mall Bridge,23,0.71875
+Park Train Station Road,Mall Bridge,23,0.7931034482758621
+Park Train Station Mall Bridge,Road,23,0.9583333333333334
+Park Train Station Mall,Road Bridge,23,0.9583333333333334
+Park Train Station Mall Road,Bridge,23,1.0
+Train Station Mall Road Other Great Outdoors,Park,23,0.92
+Road Mall Other Great Outdoors,Park Train Station,23,0.8846153846153846
+Mall Other Great Outdoors,Park Train Station Road,23,0.8518518518518519
+Mall,Park Train Station Road Other Great Outdoors,23,0.8518518518518519
+Road Mall,Park Train Station Other Great Outdoors,23,0.8846153846153846
+Train Station Mall Other Great Outdoors,Park Road,23,0.8846153846153846
+Train Station Mall,Park Road Other Great Outdoors,23,0.8846153846153846
+Train Station Road Mall,Park Other Great Outdoors,23,0.92
+Park Mall Road Other Great Outdoors,Train Station,23,1.0
+Park Road Other Great Outdoors,Train Station Mall,23,0.7666666666666667
+Park Road,Train Station Mall Other Great Outdoors,23,0.7666666666666667
+Park Mall Other Great Outdoors,Train Station Road,23,0.9583333333333334
+Park Mall,Train Station Road Other Great Outdoors,23,0.9583333333333334
+Park Road Mall,Train Station Other Great Outdoors,23,1.0
+Park Train Station Road Other Great Outdoors,Mall,23,0.7931034482758621
+Park Train Station Other Great Outdoors,Road Mall,23,0.71875
+Park Train Station,Road Mall Other Great Outdoors,23,0.71875
+Park Train Station Road,Mall Other Great Outdoors,23,0.7931034482758621
+Park Train Station Mall Other Great Outdoors,Road,23,0.9583333333333334
+Park Train Station Mall,Road Other Great Outdoors,23,0.9583333333333334
+Park Train Station Mall Road,Other Great Outdoors,23,1.0
+Train Station Mall Other Great Outdoors Bridge,Park,24,0.9230769230769231
+Mall Other Great Outdoors Bridge,Park Train Station,24,0.8888888888888888
+Mall Bridge,Park Train Station Other Great Outdoors,24,0.8888888888888888
+Mall,Park Train Station Other Great Outdoors Bridge,24,0.8888888888888888
+Mall Other Great Outdoors,Park Train Station Bridge,24,0.8888888888888888
+Train Station Mall Bridge,Park Other Great Outdoors,24,0.9230769230769231
+Train Station Mall,Park Other Great Outdoors Bridge,24,0.9230769230769231
+Train Station Mall Other Great Outdoors,Park Bridge,24,0.9230769230769231
+Park Mall Other Great Outdoors Bridge,Train Station,24,1.0
+Park Other Great Outdoors Bridge,Train Station Mall,24,0.75
+Park Bridge,Train Station Mall Other Great Outdoors,24,0.75
+Park,Train Station Mall Other Great Outdoors Bridge,24,0.7272727272727273
+Park Other Great Outdoors,Train Station Mall Bridge,24,0.7272727272727273
+Park Mall Bridge,Train Station Other Great Outdoors,24,1.0
+Park Mall,Train Station Other Great Outdoors Bridge,24,1.0
+Park Mall Other Great Outdoors,Train Station Bridge,24,1.0
+Park Train Station Other Great Outdoors Bridge,Mall,24,0.7741935483870968
+Park Train Station Bridge,Mall Other Great Outdoors,24,0.7741935483870968
+Park Train Station,Mall Other Great Outdoors Bridge,24,0.75
+Park Train Station Other Great Outdoors,Mall Bridge,24,0.75
+Park Train Station Mall Bridge,Other Great Outdoors,24,1.0
+Park Train Station Mall,Other Great Outdoors Bridge,24,1.0
+Park Train Station Mall Other Great Outdoors,Bridge,24,1.0
+Mall Road Other Great Outdoors Bridge,Train Station,25,0.9615384615384616
+Mall Other Great Outdoors Bridge,Train Station Road,25,0.9259259259259259
+Mall Bridge,Train Station Road Other Great Outdoors,25,0.9259259259259259
+Mall,Train Station Road Other Great Outdoors Bridge,25,0.9259259259259259
+Mall Other Great Outdoors,Train Station Road Bridge,25,0.9259259259259259
+Road Mall Bridge,Train Station Other Great Outdoors,25,0.9615384615384616
+Road Mall,Train Station Other Great Outdoors Bridge,25,0.9615384615384616
+Road Mall Other Great Outdoors,Train Station Bridge,25,0.9615384615384616
+Train Station Road Other Great Outdoors Bridge,Mall,25,0.7352941176470589
+Train Station Road Bridge,Mall Other Great Outdoors,25,0.7142857142857143
+Train Station Road,Mall Other Great Outdoors Bridge,25,0.7142857142857143
+Train Station Road Other Great Outdoors,Mall Bridge,25,0.7352941176470589
+Train Station Mall Other Great Outdoors Bridge,Road,25,0.9615384615384616
+Train Station Mall Bridge,Road Other Great Outdoors,25,0.9615384615384616
+Train Station Mall,Road Other Great Outdoors Bridge,25,0.9615384615384616
+Train Station Mall Other Great Outdoors,Road Bridge,25,0.9615384615384616
+Train Station Mall Road Bridge,Other Great Outdoors,25,1.0
+Train Station Road Mall,Other Great Outdoors Bridge,25,1.0
+Train Station Mall Road Other Great Outdoors,Bridge,25,1.0
+Train Station Convenience Store Other Great Outdoors Bridge,Park,21,0.8076923076923077
+Convenience Store Other Great Outdoors Bridge,Park Train Station,21,0.7777777777777778
+Convenience Store Bridge,Park Train Station Other Great Outdoors,21,0.7777777777777778
+Convenience Store,Park Train Station Other Great Outdoors Bridge,21,0.75
+Convenience Store Other Great Outdoors,Park Train Station Bridge,21,0.7777777777777778
+Train Station Convenience Store Bridge,Park Other Great Outdoors,21,0.8076923076923077
+Train Station Convenience Store,Park Other Great Outdoors Bridge,21,0.7777777777777778
+Train Station Convenience Store Other Great Outdoors,Park Bridge,21,0.8076923076923077
+Park Convenience Store Other Great Outdoors Bridge,Train Station,21,1.0
+Park Convenience Store Bridge,Train Station Other Great Outdoors,21,1.0
+Park Convenience Store,Train Station Other Great Outdoors Bridge,21,1.0
+Park Convenience Store Other Great Outdoors,Train Station Bridge,21,1.0
+Park Train Station Convenience Store Bridge,Other Great Outdoors,21,1.0
+Park Train Station Convenience Store,Other Great Outdoors Bridge,21,1.0
+Park Train Station Convenience Store Other Great Outdoors,Bridge,21,1.0
+Road Convenience Store Other Great Outdoors Bridge,Train Station,24,0.96
+Convenience Store Other Great Outdoors Bridge,Train Station Road,24,0.8888888888888888
+Convenience Store Bridge,Train Station Road Other Great Outdoors,24,0.8888888888888888
+Convenience Store,Train Station Road Other Great Outdoors Bridge,24,0.8571428571428571
+Convenience Store Other Great Outdoors,Train Station Road Bridge,24,0.8888888888888888
+Road Convenience Store Bridge,Train Station Other Great Outdoors,24,0.96
+Road Convenience Store,Train Station Other Great Outdoors Bridge,24,0.96
+Road Convenience Store Other Great Outdoors,Train Station Bridge,24,0.96
+Train Station Convenience Store Other Great Outdoors Bridge,Road,24,0.9230769230769231
+Train Station Convenience Store Bridge,Road Other Great Outdoors,24,0.9230769230769231
+Train Station Convenience Store,Road Other Great Outdoors Bridge,24,0.8888888888888888
+Train Station Convenience Store Other Great Outdoors,Road Bridge,24,0.9230769230769231
+Train Station Road Other Great Outdoors Bridge,Convenience Store,24,0.7058823529411765
+Train Station Road Other Great Outdoors,Convenience Store Bridge,24,0.7058823529411765
+Train Station Road Convenience Store Bridge,Other Great Outdoors,24,1.0
+Train Station Road Convenience Store,Other Great Outdoors Bridge,24,1.0
+Train Station Road Convenience Store Other Great Outdoors,Bridge,24,1.0
+Train Station Road Other Great Outdoors Bridge,Park,29,0.8529411764705882
+Road Other Great Outdoors Bridge,Park Train Station,29,0.8055555555555556
+Other Great Outdoors Bridge,Park Train Station Road,29,0.7631578947368421
+Bridge,Park Train Station Road Other Great Outdoors,29,0.725
+Other Great Outdoors,Park Train Station Road Bridge,29,0.7073170731707317
+Road Bridge,Park Train Station Other Great Outdoors,29,0.7837837837837838
+Road,Park Train Station Other Great Outdoors Bridge,29,0.7837837837837838
+Road Other Great Outdoors,Park Train Station Bridge,29,0.8055555555555556
+Train Station Other Great Outdoors Bridge,Park Road,29,0.8055555555555556
+Train Station Bridge,Park Road Other Great Outdoors,29,0.7631578947368421
+Train Station Other Great Outdoors,Park Road Bridge,29,0.7435897435897436
+Train Station Road Bridge,Park Other Great Outdoors,29,0.8285714285714286
+Train Station Road,Park Other Great Outdoors Bridge,29,0.8285714285714286
+Train Station Road Other Great Outdoors,Park Bridge,29,0.8529411764705882
+Park Road Other Great Outdoors Bridge,Train Station,29,0.9666666666666667
+Park Other Great Outdoors Bridge,Train Station Road,29,0.90625
+Park Bridge,Train Station Road Other Great Outdoors,29,0.90625
+Park,Train Station Road Other Great Outdoors Bridge,29,0.8787878787878788
+Park Other Great Outdoors,Train Station Road Bridge,29,0.8787878787878788
+Park Road Bridge,Train Station Other Great Outdoors,29,0.9666666666666667
+Park Road,Train Station Other Great Outdoors Bridge,29,0.9666666666666667
+Park Road Other Great Outdoors,Train Station Bridge,29,0.9666666666666667
+Park Train Station Other Great Outdoors Bridge,Road,29,0.9354838709677419
+Park Train Station Bridge,Road Other Great Outdoors,29,0.9354838709677419
+Park Train Station,Road Other Great Outdoors Bridge,29,0.90625
+Park Train Station Other Great Outdoors,Road Bridge,29,0.90625
+Park Train Station Road Bridge,Other Great Outdoors,29,1.0
+Park Train Station Road,Other Great Outdoors Bridge,29,1.0
+Park Train Station Road Other Great Outdoors,Bridge,29,1.0
+Road Mall Bridge,Park,23,0.8846153846153846
+Mall Bridge,Park Road,23,0.8518518518518519
+Mall,Park Road Bridge,23,0.8518518518518519
+Road Mall,Park Bridge,23,0.8846153846153846
+Park Mall Bridge,Road,23,0.9583333333333334
+Park Bridge,Road Mall,23,0.71875
+Park Mall,Road Bridge,23,0.9583333333333334
+Park Road Bridge,Mall,23,0.7666666666666667
+Park Road,Mall Bridge,23,0.7666666666666667
+Park Road Mall,Bridge,23,1.0
+Road Mall Other Great Outdoors,Park,23,0.8846153846153846
+Mall Other Great Outdoors,Park Road,23,0.8518518518518519
+Mall,Park Road Other Great Outdoors,23,0.8518518518518519
+Road Mall,Park Other Great Outdoors,23,0.8846153846153846
+Park Mall Other Great Outdoors,Road,23,0.9583333333333334
+Park Mall,Road Other Great Outdoors,23,0.9583333333333334
+Park Road Other Great Outdoors,Mall,23,0.7666666666666667
+Park Road,Mall Other Great Outdoors,23,0.7666666666666667
+Park Road Mall,Other Great Outdoors,23,1.0
+Train Station Mall Road,Park,23,0.92
+Road Mall,Park Train Station,23,0.8846153846153846
+Mall,Park Train Station Road,23,0.8518518518518519
+Train Station Mall,Park Road,23,0.8846153846153846
+Park Mall Road,Train Station,23,1.0
+Park Road,Train Station Mall,23,0.7666666666666667
+Park Mall,Train Station Road,23,0.9583333333333334
+Park Train Station Road,Mall,23,0.7931034482758621
+Park Train Station,Road Mall,23,0.71875
+Park Train Station Mall,Road,23,0.9583333333333334
+Mall Other Great Outdoors Bridge,Park,24,0.8888888888888888
+Mall Bridge,Park Other Great Outdoors,24,0.8888888888888888
+Mall,Park Other Great Outdoors Bridge,24,0.8888888888888888
+Mall Other Great Outdoors,Park Bridge,24,0.8888888888888888
+Park Other Great Outdoors Bridge,Mall,24,0.75
+Park Bridge,Mall Other Great Outdoors,24,0.75
+Park,Mall Other Great Outdoors Bridge,24,0.7272727272727273
+Park Other Great Outdoors,Mall Bridge,24,0.7272727272727273
+Park Mall Bridge,Other Great Outdoors,24,1.0
+Park Mall,Other Great Outdoors Bridge,24,1.0
+Park Mall Other Great Outdoors,Bridge,24,1.0
+Train Station Mall Bridge,Park,24,0.9230769230769231
+Mall Bridge,Park Train Station,24,0.8888888888888888
+Mall,Park Train Station Bridge,24,0.8888888888888888
+Train Station Mall,Park Bridge,24,0.9230769230769231
+Park Mall Bridge,Train Station,24,1.0
+Park Bridge,Train Station Mall,24,0.75
+Park,Train Station Mall Bridge,24,0.7272727272727273
+Park Mall,Train Station Bridge,24,1.0
+Park Train Station Bridge,Mall,24,0.7741935483870968
+Park Train Station,Mall Bridge,24,0.75
+Park Train Station Mall,Bridge,24,1.0
+Train Station Mall Other Great Outdoors,Park,24,0.9230769230769231
+Mall Other Great Outdoors,Park Train Station,24,0.8888888888888888
+Mall,Park Train Station Other Great Outdoors,24,0.8888888888888888
+Train Station Mall,Park Other Great Outdoors,24,0.9230769230769231
+Park Mall Other Great Outdoors,Train Station,24,1.0
+Park Other Great Outdoors,Train Station Mall,24,0.7272727272727273
+Park,Train Station Mall Other Great Outdoors,24,0.7272727272727273
+Park Mall,Train Station Other Great Outdoors,24,1.0
+Park Train Station Other Great Outdoors,Mall,24,0.75
+Park Train Station,Mall Other Great Outdoors,24,0.75
+Park Train Station Mall,Other Great Outdoors,24,1.0
+Mall Other Great Outdoors Bridge,Road,26,0.9629629629629629
+Mall Bridge,Road Other Great Outdoors,26,0.9629629629629629
+Mall,Road Other Great Outdoors Bridge,26,0.9629629629629629
+Mall Other Great Outdoors,Road Bridge,26,0.9629629629629629
+Road Other Great Outdoors Bridge,Mall,26,0.7222222222222222
+Road Bridge,Mall Other Great Outdoors,26,0.7027027027027027
+Road,Mall Other Great Outdoors Bridge,26,0.7027027027027027
+Road Other Great Outdoors,Mall Bridge,26,0.7222222222222222
+Road Mall Bridge,Other Great Outdoors,26,1.0
+Road Mall,Other Great Outdoors Bridge,26,1.0
+Road Mall Other Great Outdoors,Bridge,26,1.0
+Road Mall Bridge,Train Station,25,0.9615384615384616
+Mall Bridge,Train Station Road,25,0.9259259259259259
+Mall,Train Station Road Bridge,25,0.9259259259259259
+Road Mall,Train Station Bridge,25,0.9615384615384616
+Train Station Mall Bridge,Road,25,0.9615384615384616
+Train Station Mall,Road Bridge,25,0.9615384615384616
+Train Station Road Bridge,Mall,25,0.7142857142857143
+Train Station Road,Mall Bridge,25,0.7142857142857143
+Train Station Road Mall,Bridge,25,1.0
+Road Mall Other Great Outdoors,Train Station,25,0.9615384615384616
+Mall Other Great Outdoors,Train Station Road,25,0.9259259259259259
+Mall,Train Station Road Other Great Outdoors,25,0.9259259259259259
+Road Mall,Train Station Other Great Outdoors,25,0.9615384615384616
+Train Station Mall Other Great Outdoors,Road,25,0.9615384615384616
+Train Station Mall,Road Other Great Outdoors,25,0.9615384615384616
+Train Station Road Other Great Outdoors,Mall,25,0.7352941176470589
+Train Station Road,Mall Other Great Outdoors,25,0.7142857142857143
+Train Station Road Mall,Other Great Outdoors,25,1.0
+Mall Other Great Outdoors Bridge,Train Station,26,0.9629629629629629
+Mall Bridge,Train Station Other Great Outdoors,26,0.9629629629629629
+Mall,Train Station Other Great Outdoors Bridge,26,0.9629629629629629
+Mall Other Great Outdoors,Train Station Bridge,26,0.9629629629629629
+Train Station Other Great Outdoors Bridge,Mall,26,0.7222222222222222
+Train Station Mall Bridge,Other Great Outdoors,26,1.0
+Train Station Mall,Other Great Outdoors Bridge,26,1.0
+Train Station Mall Other Great Outdoors,Bridge,26,1.0
+Convenience Store Other Great Outdoors Bridge,Park,21,0.7777777777777778
+Convenience Store Bridge,Park Other Great Outdoors,21,0.7777777777777778
+Convenience Store,Park Other Great Outdoors Bridge,21,0.75
+Convenience Store Other Great Outdoors,Park Bridge,21,0.7777777777777778
+Park Convenience Store Bridge,Other Great Outdoors,21,1.0
+Park Convenience Store,Other Great Outdoors Bridge,21,1.0
+Park Convenience Store Other Great Outdoors,Bridge,21,1.0
+Train Station Convenience Store Bridge,Park,21,0.8076923076923077
+Convenience Store Bridge,Park Train Station,21,0.7777777777777778
+Convenience Store,Park Train Station Bridge,21,0.75
+Train Station Convenience Store,Park Bridge,21,0.7777777777777778
+Park Convenience Store Bridge,Train Station,21,1.0
+Park Convenience Store,Train Station Bridge,21,1.0
+Park Train Station Convenience Store,Bridge,21,1.0
+Train Station Convenience Store Other Great Outdoors,Park,21,0.8076923076923077
+Convenience Store Other Great Outdoors,Park Train Station,21,0.7777777777777778
+Convenience Store,Park Train Station Other Great Outdoors,21,0.75
+Train Station Convenience Store,Park Other Great Outdoors,21,0.7777777777777778
+Park Convenience Store Other Great Outdoors,Train Station,21,1.0
+Park Convenience Store,Train Station Other Great Outdoors,21,1.0
+Park Train Station Convenience Store,Other Great Outdoors,21,1.0
+Convenience Store Other Great Outdoors Bridge,Road,25,0.9259259259259259
+Convenience Store Bridge,Road Other Great Outdoors,25,0.9259259259259259
+Convenience Store,Road Other Great Outdoors Bridge,25,0.8928571428571429
+Convenience Store Other Great Outdoors,Road Bridge,25,0.9259259259259259
+Road Convenience Store Bridge,Other Great Outdoors,25,1.0
+Road Convenience Store,Other Great Outdoors Bridge,25,1.0
+Road Convenience Store Other Great Outdoors,Bridge,25,1.0
+Road Convenience Store Bridge,Train Station,24,0.96
+Convenience Store Bridge,Train Station Road,24,0.8888888888888888
+Convenience Store,Train Station Road Bridge,24,0.8571428571428571
+Road Convenience Store,Train Station Bridge,24,0.96
+Train Station Convenience Store Bridge,Road,24,0.9230769230769231
+Train Station Convenience Store,Road Bridge,24,0.8888888888888888
+Train Station Road Convenience Store,Bridge,24,1.0
+Road Convenience Store Other Great Outdoors,Train Station,24,0.96
+Convenience Store Other Great Outdoors,Train Station Road,24,0.8888888888888888
+Convenience Store,Train Station Road Other Great Outdoors,24,0.8571428571428571
+Road Convenience Store,Train Station Other Great Outdoors,24,0.96
+Train Station Convenience Store Other Great Outdoors,Road,24,0.9230769230769231
+Train Station Convenience Store,Road Other Great Outdoors,24,0.8888888888888888
+Train Station Road Other Great Outdoors,Convenience Store,24,0.7058823529411765
+Train Station Road Convenience Store,Other Great Outdoors,24,1.0
+Convenience Store Other Great Outdoors Bridge,Train Station,26,0.9629629629629629
+Convenience Store Bridge,Train Station Other Great Outdoors,26,0.9629629629629629
+Convenience Store,Train Station Other Great Outdoors Bridge,26,0.9285714285714286
+Convenience Store Other Great Outdoors,Train Station Bridge,26,0.9629629629629629
+Train Station Other Great Outdoors Bridge,Convenience Store,26,0.7222222222222222
+Train Station Convenience Store Bridge,Other Great Outdoors,26,1.0
+Train Station Convenience Store,Other Great Outdoors Bridge,26,0.9629629629629629
+Train Station Convenience Store Other Great Outdoors,Bridge,26,1.0
+Road Other Great Outdoors Bridge,Park,30,0.8333333333333334
+Other Great Outdoors Bridge,Park Road,30,0.7894736842105263
+Bridge,Park Road Other Great Outdoors,30,0.75
+Other Great Outdoors,Park Road Bridge,30,0.7317073170731707
+Road Bridge,Park Other Great Outdoors,30,0.8108108108108109
+Road,Park Other Great Outdoors Bridge,30,0.8108108108108109
+Road Other Great Outdoors,Park Bridge,30,0.8333333333333334
+Park Other Great Outdoors Bridge,Road,30,0.9375
+Park Bridge,Road Other Great Outdoors,30,0.9375
+Park,Road Other Great Outdoors Bridge,30,0.9090909090909091
+Park Other Great Outdoors,Road Bridge,30,0.9090909090909091
+Park Road Bridge,Other Great Outdoors,30,1.0
+Park Road,Other Great Outdoors Bridge,30,1.0
+Park Road Other Great Outdoors,Bridge,30,1.0
+Train Station Road Bridge,Park,29,0.8285714285714286
+Road Bridge,Park Train Station,29,0.7837837837837838
+Bridge,Park Train Station Road,29,0.725
+Road,Park Train Station Bridge,29,0.7837837837837838
+Train Station Bridge,Park Road,29,0.7631578947368421
+Train Station Road,Park Bridge,29,0.8285714285714286
+Park Road Bridge,Train Station,29,0.9666666666666667
+Park Bridge,Train Station Road,29,0.90625
+Park,Train Station Road Bridge,29,0.8787878787878788
+Park Road,Train Station Bridge,29,0.9666666666666667
+Park Train Station Bridge,Road,29,0.9354838709677419
+Park Train Station,Road Bridge,29,0.90625
+Park Train Station Road,Bridge,29,1.0
+Train Station Road Other Great Outdoors,Park,29,0.8529411764705882
+Road Other Great Outdoors,Park Train Station,29,0.8055555555555556
+Other Great Outdoors,Park Train Station Road,29,0.7073170731707317
+Road,Park Train Station Other Great Outdoors,29,0.7837837837837838
+Train Station Other Great Outdoors,Park Road,29,0.7435897435897436
+Train Station Road,Park Other Great Outdoors,29,0.8285714285714286
+Park Road Other Great Outdoors,Train Station,29,0.9666666666666667
+Park Other Great Outdoors,Train Station Road,29,0.8787878787878788
+Park,Train Station Road Other Great Outdoors,29,0.8787878787878788
+Park Road,Train Station Other Great Outdoors,29,0.9666666666666667
+Park Train Station Other Great Outdoors,Road,29,0.90625
+Park Train Station,Road Other Great Outdoors,29,0.90625
+Park Train Station Road,Other Great Outdoors,29,1.0
+Train Station Other Great Outdoors Bridge,Park,31,0.8611111111111112
+Other Great Outdoors Bridge,Park Train Station,31,0.8157894736842105
+Bridge,Park Train Station Other Great Outdoors,31,0.775
+Other Great Outdoors,Park Train Station Bridge,31,0.7560975609756098
+Train Station Bridge,Park Other Great Outdoors,31,0.8157894736842105
+Train Station Other Great Outdoors,Park Bridge,31,0.7948717948717948
+Park Other Great Outdoors Bridge,Train Station,31,0.96875
+Park Bridge,Train Station Other Great Outdoors,31,0.96875
+Park,Train Station Other Great Outdoors Bridge,31,0.9393939393939394
+Park Other Great Outdoors,Train Station Bridge,31,0.9393939393939394
+Park Train Station Bridge,Other Great Outdoors,31,1.0
+Park Train Station,Other Great Outdoors Bridge,31,0.96875
+Park Train Station Other Great Outdoors,Bridge,31,0.96875
+Road Other Great Outdoors Bridge,Train Station,34,0.9444444444444444
+Other Great Outdoors Bridge,Train Station Road,34,0.8947368421052632
+Bridge,Train Station Road Other Great Outdoors,34,0.85
+Other Great Outdoors,Train Station Road Bridge,34,0.8292682926829268
+Road Bridge,Train Station Other Great Outdoors,34,0.918918918918919
+Road,Train Station Other Great Outdoors Bridge,34,0.918918918918919
+Road Other Great Outdoors,Train Station Bridge,34,0.9444444444444444
+Train Station Other Great Outdoors Bridge,Road,34,0.9444444444444444
+Train Station Bridge,Road Other Great Outdoors,34,0.8947368421052632
+Train Station Other Great Outdoors,Road Bridge,34,0.8717948717948718
+Train Station Road Bridge,Other Great Outdoors,34,0.9714285714285714
+Train Station Road,Other Great Outdoors Bridge,34,0.9714285714285714
+Train Station Road Other Great Outdoors,Bridge,34,1.0
+Road Mall,Park,23,0.8846153846153846
+Mall,Park Road,23,0.8518518518518519
+Park Mall,Road,23,0.9583333333333334
+Park Road,Mall,23,0.7666666666666667
+Mall Bridge,Park,24,0.8888888888888888
+Mall,Park Bridge,24,0.8888888888888888
+Park Bridge,Mall,24,0.75
+Park,Mall Bridge,24,0.7272727272727273
+Park Mall,Bridge,24,1.0
+Mall Other Great Outdoors,Park,24,0.8888888888888888
+Mall,Park Other Great Outdoors,24,0.8888888888888888
+Park Other Great Outdoors,Mall,24,0.7272727272727273
+Park,Mall Other Great Outdoors,24,0.7272727272727273
+Park Mall,Other Great Outdoors,24,1.0
+Train Station Mall,Park,24,0.9230769230769231
+Mall,Park Train Station,24,0.8888888888888888
+Park Mall,Train Station,24,1.0
+Park,Train Station Mall,24,0.7272727272727273
+Park Train Station,Mall,24,0.75
+Mall Bridge,Road,26,0.9629629629629629
+Mall,Road Bridge,26,0.9629629629629629
+Road Bridge,Mall,26,0.7027027027027027
+Road,Mall Bridge,26,0.7027027027027027
+Road Mall,Bridge,26,1.0
+Mall Other Great Outdoors,Road,26,0.9629629629629629
+Mall,Road Other Great Outdoors,26,0.9629629629629629
+Road Other Great Outdoors,Mall,26,0.7222222222222222
+Road,Mall Other Great Outdoors,26,0.7027027027027027
+Road Mall,Other Great Outdoors,26,1.0
+Road Mall,Train Station,25,0.9615384615384616
+Mall,Train Station Road,25,0.9259259259259259
+Train Station Mall,Road,25,0.9615384615384616
+Train Station Road,Mall,25,0.7142857142857143
+Other Great Outdoors Bridge,Mall,27,0.7105263157894737
+Mall Bridge,Other Great Outdoors,27,1.0
+Mall,Other Great Outdoors Bridge,27,1.0
+Mall Other Great Outdoors,Bridge,27,1.0
+Mall Bridge,Train Station,26,0.9629629629629629
+Mall,Train Station Bridge,26,0.9629629629629629
+Train Station Mall,Bridge,26,1.0
+Mall Other Great Outdoors,Train Station,26,0.9629629629629629
+Mall,Train Station Other Great Outdoors,26,0.9629629629629629
+Train Station Mall,Other Great Outdoors,26,1.0
+Convenience Store Bridge,Park,21,0.7777777777777778
+Convenience Store,Park Bridge,21,0.75
+Park Convenience Store,Bridge,21,1.0
+Convenience Store Other Great Outdoors,Park,21,0.7777777777777778
+Convenience Store,Park Other Great Outdoors,21,0.75
+Park Convenience Store,Other Great Outdoors,21,1.0
+Train Station Convenience Store,Park,21,0.7777777777777778
+Convenience Store,Park Train Station,21,0.75
+Park Convenience Store,Train Station,21,1.0
+Convenience Store Bridge,Road,25,0.9259259259259259
+Convenience Store,Road Bridge,25,0.8928571428571429
+Road Convenience Store,Bridge,25,1.0
+Convenience Store Other Great Outdoors,Road,25,0.9259259259259259
+Convenience Store,Road Other Great Outdoors,25,0.8928571428571429
+Road Convenience Store,Other Great Outdoors,25,1.0
+Road Convenience Store,Train Station,24,0.96
+Convenience Store,Train Station Road,24,0.8571428571428571
+Train Station Convenience Store,Road,24,0.8888888888888888
+Other Great Outdoors Bridge,Convenience Store,27,0.7105263157894737
+Convenience Store Bridge,Other Great Outdoors,27,1.0
+Convenience Store,Other Great Outdoors Bridge,27,0.9642857142857143
+Convenience Store Other Great Outdoors,Bridge,27,1.0
+Convenience Store Bridge,Train Station,26,0.9629629629629629
+Convenience Store,Train Station Bridge,26,0.9285714285714286
+Train Station Convenience Store,Bridge,26,0.9629629629629629
+Convenience Store Other Great Outdoors,Train Station,26,0.9629629629629629
+Convenience Store,Train Station Other Great Outdoors,26,0.9285714285714286
+Train Station Convenience Store,Other Great Outdoors,26,0.9629629629629629
+Road Bridge,Park,30,0.8108108108108109
+Bridge,Park Road,30,0.75
+Road,Park Bridge,30,0.8108108108108109
+Park Bridge,Road,30,0.9375
+Park,Road Bridge,30,0.9090909090909091
+Park Road,Bridge,30,1.0
+Road Other Great Outdoors,Park,30,0.8333333333333334
+Other Great Outdoors,Park Road,30,0.7317073170731707
+Road,Park Other Great Outdoors,30,0.8108108108108109
+Park Other Great Outdoors,Road,30,0.9090909090909091
+Park,Road Other Great Outdoors,30,0.9090909090909091
+Park Road,Other Great Outdoors,30,1.0
+Train Station Road,Park,29,0.8285714285714286
+Road,Park Train Station,29,0.7837837837837838
+Park Road,Train Station,29,0.9666666666666667
+Park,Train Station Road,29,0.8787878787878788
+Park Train Station,Road,29,0.90625
+Other Great Outdoors Bridge,Park,32,0.8421052631578947
+Bridge,Park Other Great Outdoors,32,0.8
+Other Great Outdoors,Park Bridge,32,0.7804878048780488
+Park Bridge,Other Great Outdoors,32,1.0
+Park,Other Great Outdoors Bridge,32,0.9696969696969697
+Park Other Great Outdoors,Bridge,32,0.9696969696969697
+Train Station Bridge,Park,31,0.8157894736842105
+Bridge,Park Train Station,31,0.775
+Park Bridge,Train Station,31,0.96875
+Park,Train Station Bridge,31,0.9393939393939394
+Park Train Station,Bridge,31,0.96875
+Train Station Other Great Outdoors,Park,32,0.8205128205128205
+Other Great Outdoors,Park Train Station,32,0.7804878048780488
+Park Other Great Outdoors,Train Station,32,0.9696969696969697
+Park,Train Station Other Great Outdoors,32,0.9696969696969697
+Park Train Station,Other Great Outdoors,32,1.0
+Other Great Outdoors Bridge,Road,36,0.9473684210526315
+Bridge,Road Other Great Outdoors,36,0.9
+Other Great Outdoors,Road Bridge,36,0.8780487804878049
+Road Bridge,Other Great Outdoors,36,0.972972972972973
+Road,Other Great Outdoors Bridge,36,0.972972972972973
+Road Other Great Outdoors,Bridge,36,1.0
+Road Bridge,Train Station,35,0.9459459459459459
+Bridge,Train Station Road,35,0.875
+Road,Train Station Bridge,35,0.9459459459459459
+Train Station Bridge,Road,35,0.9210526315789473
+Train Station Road,Bridge,35,1.0
+Road Other Great Outdoors,Train Station,34,0.9444444444444444
+Other Great Outdoors,Train Station Road,34,0.8292682926829268
+Road,Train Station Other Great Outdoors,34,0.918918918918919
+Train Station Other Great Outdoors,Road,34,0.8717948717948718
+Train Station Road,Other Great Outdoors,34,0.9714285714285714
+Other Great Outdoors Bridge,Train Station,36,0.9473684210526315
+Bridge,Train Station Other Great Outdoors,36,0.9
+Other Great Outdoors,Train Station Bridge,36,0.8780487804878049
+Train Station Bridge,Other Great Outdoors,36,0.9473684210526315
+Train Station Other Great Outdoors,Bridge,36,0.9230769230769231
+Subway,Train Station,25,1.0
+Mall,Park,24,0.8888888888888888
+Park,Mall,24,0.7272727272727273
+Mall,Road,26,0.9629629629629629
+Road,Mall,26,0.7027027027027027
+Mall,Bridge,27,1.0
+Mall,Other Great Outdoors,27,1.0
+Mall,Train Station,26,0.9629629629629629
+Convenience Store,Park,21,0.75
+Convenience Store,Road,25,0.8928571428571429
+Convenience Store,Bridge,27,0.9642857142857143
+Convenience Store,Other Great Outdoors,27,0.9642857142857143
+Convenience Store,Train Station,27,0.9642857142857143
+Road,Park,30,0.8108108108108109
+Park,Road,30,0.9090909090909091
+Bridge,Park,32,0.8
+Park,Bridge,32,0.9696969696969697
+Other Great Outdoors,Park,33,0.8048780487804879
+Park,Other Great Outdoors,33,1.0
+Park,Train Station,32,0.9696969696969697
+Bridge,Road,37,0.925
+Road,Bridge,37,1.0
+Other Great Outdoors,Road,36,0.8780487804878049
+Road,Other Great Outdoors,36,0.972972972972973
+Road,Train Station,35,0.9459459459459459
+Bridge,Other Great Outdoors,38,0.95
+Other Great Outdoors,Bridge,38,0.926829268292683
+Bridge,Train Station,38,0.95
+Train Station,Bridge,38,0.7037037037037037
+Other Great Outdoors,Train Station,39,0.9512195121951219
+Train Station,Other Great Outdoors,39,0.7222222222222222

@@ -1,0 +1,32 @@
+Train Station Convenience Store Bridge,Food & Drink Shop,21,0.9130434782608695
+Convenience Store Bridge,Food & Drink Shop Train Station,21,0.875
+Bridge,Food & Drink Shop Train Station Convenience Store,21,0.7
+Train Station Bridge,Food & Drink Shop Convenience Store,21,0.75
+Food & Drink Shop Convenience Store Bridge,Train Station,21,1.0
+Food & Drink Shop Bridge,Train Station Convenience Store,21,0.9545454545454546
+Food & Drink Shop Convenience Store,Train Station Bridge,21,0.75
+Food & Drink Shop Train Station Bridge,Convenience Store,21,0.9545454545454546
+Food & Drink Shop Train Station Convenience Store,Bridge,21,0.75
+Convenience Store Bridge,Food & Drink Shop,21,0.875
+Bridge,Food & Drink Shop Convenience Store,21,0.7
+Food & Drink Shop Bridge,Convenience Store,21,0.9545454545454546
+Food & Drink Shop Convenience Store,Bridge,21,0.75
+Train Station Bridge,Food & Drink Shop,22,0.7857142857142857
+Bridge,Food & Drink Shop Train Station,22,0.7333333333333333
+Food & Drink Shop Bridge,Train Station,22,1.0
+Convenience Store Bridge,Train Station,23,0.9583333333333334
+Bridge,Train Station Convenience Store,23,0.7666666666666667
+Train Station Bridge,Convenience Store,23,0.8214285714285714
+Train Station Convenience Store,Food & Drink Shop,28,0.7777777777777778
+Convenience Store,Food & Drink Shop Train Station,28,0.717948717948718
+Food & Drink Shop Convenience Store,Train Station,28,1.0
+Food & Drink Shop,Train Station Convenience Store,28,0.8484848484848485
+Food & Drink Shop Train Station,Convenience Store,28,0.875
+Bridge,Food & Drink Shop,22,0.7333333333333333
+Bridge,Convenience Store,24,0.8
+Bridge,Train Station,28,0.9333333333333333
+Convenience Store,Food & Drink Shop,28,0.717948717948718
+Food & Drink Shop,Convenience Store,28,0.8484848484848485
+Food & Drink Shop,Train Station,32,0.9696969696969697
+Convenience Store,Train Station,36,0.9230769230769231
+Train Station,Convenience Store,36,0.75

@@ -1,0 +1,117 @@
+Building Home (private) River Bridge,Train Station,21,1.0
+Building River Bridge,Train Station Home (private),21,1.0
+Building Bridge,Train Station Home (private) River,21,0.9545454545454546
+Building,Train Station Home (private) River Bridge,21,0.875
+Building River,Train Station Home (private) Bridge,21,1.0
+Building Home (private) Bridge,Train Station River,21,0.9545454545454546
+Building Home (private),Train Station River Bridge,21,0.9545454545454546
+Building Home (private) River,Train Station Bridge,21,1.0
+Building Train Station River Bridge,Home (private),21,1.0
+Building Train Station Bridge,River Home (private),21,0.9545454545454546
+Building Train Station,River Home (private) Bridge,21,0.875
+Building Train Station River,Home (private) Bridge,21,1.0
+Building Train Station Home (private) Bridge,River,21,0.9545454545454546
+Building Train Station Home (private),River Bridge,21,0.9545454545454546
+Building Train Station Home (private) River,Bridge,21,1.0
+Building River Bridge,Home (private),21,1.0
+Building Bridge,River Home (private),21,0.9545454545454546
+Building,River Home (private) Bridge,21,0.875
+Building River,Home (private) Bridge,21,1.0
+Building Home (private) Bridge,River,21,0.9545454545454546
+Building Home (private),River Bridge,21,0.9545454545454546
+Building Home (private) River,Bridge,21,1.0
+Building Home (private) Bridge,Train Station,22,1.0
+Building Bridge,Train Station Home (private),22,1.0
+Building,Train Station Home (private) Bridge,22,0.9166666666666666
+Building Home (private),Train Station Bridge,22,1.0
+Building Train Station Bridge,Home (private),22,1.0
+Building Train Station,Home (private) Bridge,22,0.9166666666666666
+Building Train Station Home (private),Bridge,22,1.0
+Building River Bridge,Train Station,21,1.0
+Building Bridge,Train Station River,21,0.9545454545454546
+Building,Train Station River Bridge,21,0.875
+Building River,Train Station Bridge,21,1.0
+Building Train Station Bridge,River,21,0.9545454545454546
+Building Train Station,River Bridge,21,0.875
+Building Train Station River,Bridge,21,1.0
+Building Home (private) River,Train Station,21,1.0
+Building River,Train Station Home (private),21,1.0
+Building,Train Station Home (private) River,21,0.875
+Building Home (private),Train Station River,21,0.9545454545454546
+Building Train Station River,Home (private),21,1.0
+Building Train Station,River Home (private),21,0.875
+Building Train Station Home (private),River,21,0.9545454545454546
+Home (private) River Bridge,Train Station,39,1.0
+River Bridge,Train Station Home (private),39,0.975
+Bridge,Train Station Home (private) River,39,0.9512195121951219
+River,Train Station Home (private) Bridge,39,0.8478260869565217
+Home (private) Bridge,Train Station River,39,0.975
+Home (private),Train Station River Bridge,39,0.9512195121951219
+River Home (private),Train Station Bridge,39,0.975
+Train Station River Bridge,Home (private),39,1.0
+Train Station Bridge,River Home (private),39,0.975
+Train Station,River Home (private) Bridge,39,0.78
+Train Station River,Home (private) Bridge,39,0.9069767441860465
+Train Station Home (private) Bridge,River,39,0.975
+Train Station Home (private),River Bridge,39,0.975
+Train Station Home (private) River,Bridge,39,1.0
+Building Bridge,Home (private),22,1.0
+Building,Home (private) Bridge,22,0.9166666666666666
+Building Home (private),Bridge,22,1.0
+Building Bridge,River,21,0.9545454545454546
+Building,River Bridge,21,0.875
+Building River,Bridge,21,1.0
+Building Bridge,Train Station,22,1.0
+Building,Train Station Bridge,22,0.9166666666666666
+Building Train Station,Bridge,22,0.9166666666666666
+Building River,Home (private),21,1.0
+Building,River Home (private),21,0.875
+Building Home (private),River,21,0.9545454545454546
+Building Home (private),Train Station,22,1.0
+Building,Train Station Home (private),22,0.9166666666666666
+Building Train Station,Home (private),22,0.9166666666666666
+Building River,Train Station,21,1.0
+Building,Train Station River,21,0.875
+Building Train Station,River,21,0.875
+Home (private) Bridge,River,39,0.975
+Bridge,River Home (private),39,0.9512195121951219
+Home (private),River Bridge,39,0.9512195121951219
+River Bridge,Home (private),39,0.975
+River,Home (private) Bridge,39,0.8478260869565217
+River Home (private),Bridge,39,0.975
+Home (private) Bridge,Train Station,40,1.0
+Bridge,Train Station Home (private),40,0.975609756097561
+Home (private),Train Station Bridge,40,0.975609756097561
+Train Station Bridge,Home (private),40,1.0
+Train Station,Home (private) Bridge,40,0.8
+Train Station Home (private),Bridge,40,1.0
+River Bridge,Train Station,39,0.975
+Bridge,Train Station River,39,0.9512195121951219
+River,Train Station Bridge,39,0.8478260869565217
+Train Station Bridge,River,39,0.975
+Train Station,River Bridge,39,0.78
+Train Station River,Bridge,39,0.9069767441860465
+Home (private) River,Train Station,39,0.975
+River,Train Station Home (private),39,0.8478260869565217
+Home (private),Train Station River,39,0.9512195121951219
+Train Station River,Home (private),39,0.9069767441860465
+Train Station,River Home (private),39,0.78
+Train Station Home (private),River,39,0.975
+Building,Bridge,22,0.9166666666666666
+Building,Home (private),22,0.9166666666666666
+Building,River,21,0.875
+Building,Train Station,24,1.0
+Convenience Store,River,20,0.8333333333333334
+Convenience Store,Train Station,23,0.9583333333333334
+Bridge,Home (private),40,0.975609756097561
+Home (private),Bridge,40,0.975609756097561
+Bridge,River,40,0.975609756097561
+River,Bridge,40,0.8695652173913043
+Bridge,Train Station,40,0.975609756097561
+Train Station,Bridge,40,0.8
+Home (private),River,40,0.975609756097561
+River,Home (private),40,0.8695652173913043
+Home (private),Train Station,40,0.975609756097561
+Train Station,Home (private),40,0.8
+River,Train Station,43,0.9347826086956522
+Train Station,River,43,0.86

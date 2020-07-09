@@ -1,0 +1,135 @@
+Convenience Store Bar Neighborhood,Train Station,22,1.0
+Bar Neighborhood,Train Station Convenience Store,22,1.0
+Neighborhood,Train Station Convenience Store Bar,22,0.9166666666666666
+Bar,Train Station Convenience Store Neighborhood,22,0.8461538461538461
+Convenience Store Neighborhood,Train Station Bar,22,0.9166666666666666
+Convenience Store Bar,Train Station Neighborhood,22,0.88
+Train Station Bar Neighborhood,Convenience Store,22,1.0
+Train Station Neighborhood,Convenience Store Bar,22,0.9166666666666666
+Train Station Bar,Convenience Store Neighborhood,22,0.8461538461538461
+Train Station Convenience Store Neighborhood,Bar,22,0.9166666666666666
+Train Station Convenience Store Bar,Neighborhood,22,0.88
+Bookstore Convenience Store Bar,Train Station,20,1.0
+Convenience Store Bar,Train Station Bookstore,20,0.8
+Bar,Train Station Bookstore Convenience Store,20,0.7692307692307693
+Bookstore Bar,Train Station Convenience Store,20,1.0
+Train Station Convenience Store Bar,Bookstore,20,0.8
+Train Station Bar,Bookstore Convenience Store,20,0.7692307692307693
+Train Station Bookstore Bar,Convenience Store,20,1.0
+Convenience Store Food & Drink Shop Drugstore / Pharmacy,Train Station,23,1.0
+Food & Drink Shop Drugstore / Pharmacy,Train Station Convenience Store,23,0.9583333333333334
+Food & Drink Shop,Train Station Convenience Store Drugstore / Pharmacy,23,0.8846153846153846
+Food & Drink Shop Convenience Store,Train Station Drugstore / Pharmacy,23,0.92
+Train Station Food & Drink Shop Drugstore / Pharmacy,Convenience Store,23,0.9583333333333334
+Train Station Food & Drink Shop,Convenience Store Drugstore / Pharmacy,23,0.8846153846153846
+Train Station Convenience Store Food & Drink Shop,Drugstore / Pharmacy,23,0.92
+Bookstore Convenience Store Drugstore / Pharmacy,Train Station,26,1.0
+Bookstore Drugstore / Pharmacy,Train Station Convenience Store,26,0.9285714285714286
+Bookstore,Train Station Convenience Store Drugstore / Pharmacy,26,0.7878787878787878
+Bookstore Convenience Store,Train Station Drugstore / Pharmacy,26,0.8387096774193549
+Train Station Bookstore Drugstore / Pharmacy,Convenience Store,26,0.9285714285714286
+Train Station Bookstore,Convenience Store Drugstore / Pharmacy,26,0.7878787878787878
+Train Station Bookstore Convenience Store,Drugstore / Pharmacy,26,0.8387096774193549
+Building Convenience Store Drugstore / Pharmacy,Train Station,26,1.0
+Building Drugstore / Pharmacy,Train Station Convenience Store,26,0.9629629629629629
+Building,Train Station Convenience Store Drugstore / Pharmacy,26,0.7647058823529411
+Building Convenience Store,Train Station Drugstore / Pharmacy,26,0.8125
+Building Train Station Drugstore / Pharmacy,Convenience Store,26,0.9629629629629629
+Building Train Station,Convenience Store Drugstore / Pharmacy,26,0.7647058823529411
+Building Train Station Convenience Store,Drugstore / Pharmacy,26,0.8125
+Light Rail Convenience Store Drugstore / Pharmacy,Train Station,26,1.0
+Light Rail Drugstore / Pharmacy,Train Station Convenience Store,26,1.0
+Light Rail,Train Station Convenience Store Drugstore / Pharmacy,26,0.7428571428571429
+Light Rail Convenience Store,Train Station Drugstore / Pharmacy,26,0.7878787878787878
+Light Rail Train Station Drugstore / Pharmacy,Convenience Store,26,1.0
+Light Rail Train Station,Convenience Store Drugstore / Pharmacy,26,0.7878787878787878
+Light Rail Train Station Convenience Store,Drugstore / Pharmacy,26,0.8125
+Bar Neighborhood,Convenience Store,22,1.0
+Neighborhood,Convenience Store Bar,22,0.9166666666666666
+Bar,Convenience Store Neighborhood,22,0.8461538461538461
+Convenience Store Neighborhood,Bar,22,0.9166666666666666
+Convenience Store Bar,Neighborhood,22,0.88
+Bar Neighborhood,Train Station,22,1.0
+Neighborhood,Train Station Bar,22,0.9166666666666666
+Bar,Train Station Neighborhood,22,0.8461538461538461
+Train Station Neighborhood,Bar,22,0.9166666666666666
+Train Station Bar,Neighborhood,22,0.8461538461538461
+Convenience Store Neighborhood,Train Station,24,1.0
+Neighborhood,Train Station Convenience Store,24,1.0
+Train Station Neighborhood,Convenience Store,24,1.0
+Convenience Store Bar,Bookstore,20,0.8
+Bar,Bookstore Convenience Store,20,0.7692307692307693
+Bookstore Bar,Convenience Store,20,1.0
+Bookstore Bar,Train Station,20,1.0
+Bar,Train Station Bookstore,20,0.7692307692307693
+Train Station Bar,Bookstore,20,0.7692307692307693
+Convenience Store Bar,Train Station,25,1.0
+Bar,Train Station Convenience Store,25,0.9615384615384616
+Train Station Bar,Convenience Store,25,0.9615384615384616
+Food & Drink Shop Drugstore / Pharmacy,Convenience Store,23,0.9583333333333334
+Food & Drink Shop,Convenience Store Drugstore / Pharmacy,23,0.8846153846153846
+Food & Drink Shop Convenience Store,Drugstore / Pharmacy,23,0.92
+Food & Drink Shop Drugstore / Pharmacy,Train Station,24,1.0
+Food & Drink Shop,Train Station Drugstore / Pharmacy,24,0.9230769230769231
+Train Station Food & Drink Shop,Drugstore / Pharmacy,24,0.9230769230769231
+Convenience Store Food & Drink Shop,Train Station,25,1.0
+Food & Drink Shop,Train Station Convenience Store,25,0.9615384615384616
+Train Station Food & Drink Shop,Convenience Store,25,0.9615384615384616
+Bookstore Drugstore / Pharmacy,Convenience Store,26,0.9285714285714286
+Bookstore,Convenience Store Drugstore / Pharmacy,26,0.7878787878787878
+Bookstore Convenience Store,Drugstore / Pharmacy,26,0.8387096774193549
+Bookstore Drugstore / Pharmacy,Train Station,28,1.0
+Bookstore,Train Station Drugstore / Pharmacy,28,0.8484848484848485
+Train Station Bookstore,Drugstore / Pharmacy,28,0.8484848484848485
+Bookstore Convenience Store,Train Station,31,1.0
+Bookstore,Train Station Convenience Store,31,0.9393939393939394
+Train Station Bookstore,Convenience Store,31,0.9393939393939394
+Building Drugstore / Pharmacy,Convenience Store,26,0.9629629629629629
+Building,Convenience Store Drugstore / Pharmacy,26,0.7647058823529411
+Building Convenience Store,Drugstore / Pharmacy,26,0.8125
+Building Drugstore / Pharmacy,Train Station,27,1.0
+Building,Train Station Drugstore / Pharmacy,27,0.7941176470588235
+Building Train Station,Drugstore / Pharmacy,27,0.7941176470588235
+Building Convenience Store,Train Station,32,1.0
+Building,Train Station Convenience Store,32,0.9411764705882353
+Building Train Station,Convenience Store,32,0.9411764705882353
+Light Rail Drugstore / Pharmacy,Convenience Store,26,1.0
+Light Rail,Convenience Store Drugstore / Pharmacy,26,0.7428571428571429
+Light Rail Convenience Store,Drugstore / Pharmacy,26,0.7878787878787878
+Light Rail Drugstore / Pharmacy,Train Station,26,1.0
+Light Rail,Train Station Drugstore / Pharmacy,26,0.7428571428571429
+Light Rail Train Station,Drugstore / Pharmacy,26,0.7878787878787878
+Light Rail Convenience Store,Train Station,32,0.9696969696969697
+Light Rail,Train Station Convenience Store,32,0.9142857142857143
+Light Rail Train Station,Convenience Store,32,0.9696969696969697
+Convenience Store Drugstore / Pharmacy,Train Station,47,1.0
+Drugstore / Pharmacy,Train Station Convenience Store,47,0.9215686274509803
+Convenience Store,Train Station Drugstore / Pharmacy,47,0.746031746031746
+Train Station Drugstore / Pharmacy,Convenience Store,47,0.94
+Train Station,Convenience Store Drugstore / Pharmacy,47,0.7014925373134329
+Train Station Convenience Store,Drugstore / Pharmacy,47,0.7580645161290323
+Neighborhood,Bar,22,0.9166666666666666
+Bar,Neighborhood,22,0.8461538461538461
+Neighborhood,Convenience Store,24,1.0
+Neighborhood,Train Station,24,1.0
+Bar,Bookstore,20,0.7692307692307693
+Bar,Convenience Store,25,0.9615384615384616
+Bar,Train Station,26,1.0
+Food & Drink Shop,Drugstore / Pharmacy,24,0.9230769230769231
+Food & Drink Shop,Convenience Store,25,0.9615384615384616
+Food & Drink Shop,Train Station,26,1.0
+Bookstore,Drugstore / Pharmacy,28,0.8484848484848485
+Bookstore,Convenience Store,31,0.9393939393939394
+Bookstore,Train Station,33,1.0
+Building,Drugstore / Pharmacy,27,0.7941176470588235
+Building,Convenience Store,32,0.9411764705882353
+Building,Train Station,34,1.0
+Light Rail,Drugstore / Pharmacy,26,0.7428571428571429
+Light Rail,Convenience Store,33,0.9428571428571428
+Light Rail,Train Station,33,0.9428571428571428
+Drugstore / Pharmacy,Convenience Store,47,0.9215686274509803
+Convenience Store,Drugstore / Pharmacy,47,0.746031746031746
+Drugstore / Pharmacy,Train Station,50,0.9803921568627451
+Train Station,Drugstore / Pharmacy,50,0.746268656716418
+Convenience Store,Train Station,62,0.9841269841269841
+Train Station,Convenience Store,62,0.9253731343283582

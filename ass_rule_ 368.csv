@@ -1,0 +1,38 @@
+Subway Office Smoke Shop,Train Station,22,0.9565217391304348
+Office Smoke Shop,Train Station Subway,22,0.9565217391304348
+Smoke Shop,Train Station Subway Office,22,0.9166666666666666
+Office,Train Station Subway Smoke Shop,22,0.88
+Subway Smoke Shop,Train Station Office,22,0.9166666666666666
+Subway Office,Train Station Smoke Shop,22,0.9565217391304348
+Train Station Office Smoke Shop,Subway,22,1.0
+Train Station Smoke Shop,Subway Office,22,0.9565217391304348
+Train Station Office,Subway Smoke Shop,22,1.0
+Train Station Subway Smoke Shop,Office,22,0.9565217391304348
+Train Station Subway,Office Smoke Shop,22,0.7096774193548387
+Train Station Subway Office,Smoke Shop,22,1.0
+Office Smoke Shop,Subway,23,1.0
+Smoke Shop,Subway Office,23,0.9583333333333334
+Office,Subway Smoke Shop,23,0.92
+Subway Smoke Shop,Office,23,0.9583333333333334
+Subway Office,Smoke Shop,23,1.0
+Office Smoke Shop,Train Station,22,0.9565217391304348
+Smoke Shop,Train Station Office,22,0.9166666666666666
+Office,Train Station Smoke Shop,22,0.88
+Train Station Smoke Shop,Office,22,0.9565217391304348
+Train Station Office,Smoke Shop,22,1.0
+Subway Smoke Shop,Train Station,23,0.9583333333333334
+Smoke Shop,Train Station Subway,23,0.9583333333333334
+Train Station Smoke Shop,Subway,23,1.0
+Train Station Subway,Smoke Shop,23,0.7419354838709677
+Subway Office,Train Station,22,0.9565217391304348
+Office,Train Station Subway,22,0.88
+Train Station Office,Subway,22,1.0
+Train Station Subway,Office,22,0.7096774193548387
+Smoke Shop,Office,23,0.9583333333333334
+Office,Smoke Shop,23,0.92
+Smoke Shop,Subway,24,1.0
+Subway,Smoke Shop,24,0.7272727272727273
+Smoke Shop,Train Station,23,0.9583333333333334
+Office,Subway,23,0.92
+Office,Train Station,22,0.88
+Subway,Train Station,31,0.9393939393939394

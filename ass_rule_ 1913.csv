@@ -1,0 +1,20 @@
+Bookstore Food & Drink Shop,Train Station,24,1.0
+Food & Drink Shop,Train Station Bookstore,24,0.9230769230769231
+Train Station Food & Drink Shop,Bookstore,24,0.9230769230769231
+Japanese Restaurant Bar,Train Station,21,1.0
+Japanese Restaurant Bookstore,Train Station,26,1.0
+Japanese Restaurant,Train Station Bookstore,26,0.8125
+Train Station Japanese Restaurant,Bookstore,26,0.8125
+Park Bookstore,Train Station,22,1.0
+Bookstore Bar,Train Station,25,1.0
+Bar,Train Station Bookstore,25,0.7142857142857143
+Train Station Bar,Bookstore,25,0.7352941176470589
+Electronics Store,Train Station,20,1.0
+Food & Drink Shop,Bookstore,24,0.9230769230769231
+Food & Drink Shop,Train Station,26,1.0
+Japanese Restaurant,Bookstore,26,0.8125
+Japanese Restaurant,Train Station,32,1.0
+Park,Train Station,32,1.0
+Bar,Bookstore,25,0.7142857142857143
+Bar,Train Station,34,0.9714285714285714
+Bookstore,Train Station,40,1.0

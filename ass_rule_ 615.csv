@@ -1,0 +1,43 @@
+Park Subway Convenience Store,Train Station,20,1.0
+Park Convenience Store,Train Station Subway,20,0.9523809523809523
+Park,Train Station Subway Convenience Store,20,0.8
+Park Subway,Train Station Convenience Store,20,0.9523809523809523
+Park Train Station Convenience Store,Subway,20,0.9523809523809523
+Park Train Station,Subway Convenience Store,20,0.8333333333333334
+Park Train Station Subway,Convenience Store,20,1.0
+Other Great Outdoors Subway Convenience Store,Train Station,23,1.0
+Other Great Outdoors Convenience Store,Train Station Subway,23,1.0
+Train Station Other Great Outdoors Convenience Store,Subway,23,1.0
+Park Convenience Store,Subway,20,0.9523809523809523
+Park,Subway Convenience Store,20,0.8
+Park Subway,Convenience Store,20,0.9523809523809523
+Park Convenience Store,Train Station,21,1.0
+Park,Train Station Convenience Store,21,0.84
+Park Train Station,Convenience Store,21,0.875
+Park Subway,Train Station,20,0.9523809523809523
+Park,Train Station Subway,20,0.8
+Park Train Station,Subway,20,0.8333333333333334
+Subway Food & Drink Shop,Train Station,20,0.9090909090909091
+Train Station Food & Drink Shop,Subway,20,0.7407407407407407
+Other Great Outdoors Convenience Store,Subway,23,1.0
+Convenience Store Other Great Outdoors,Train Station,23,1.0
+Subway Convenience Store,Train Station,34,1.0
+Convenience Store,Train Station Subway,34,0.9444444444444444
+Train Station Convenience Store,Subway,34,0.9444444444444444
+Subway Other Great Outdoors,Train Station,36,0.9473684210526315
+Other Great Outdoors,Train Station Subway,36,0.8372093023255814
+Train Station Other Great Outdoors,Subway,36,0.9
+Plaza,Train Station,20,0.9523809523809523
+Hotel,Train Station,20,0.9090909090909091
+Park,Convenience Store,21,0.84
+Park,Subway,21,0.84
+Park,Train Station,24,0.96
+Ramen /  Noodle House,Train Station,25,1.0
+Food & Drink Shop,Subway,22,0.7586206896551724
+Food & Drink Shop,Train Station,27,0.9310344827586207
+Convenience Store,Subway,34,0.9444444444444444
+Convenience Store,Train Station,36,1.0
+Other Great Outdoors,Subway,38,0.8837209302325582
+Other Great Outdoors,Train Station,40,0.9302325581395349
+Subway,Train Station,52,0.9454545454545454
+Train Station,Subway,52,0.8

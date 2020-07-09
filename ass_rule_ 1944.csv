@@ -1,0 +1,53 @@
+Plaza Bookstore Video Store,Train Station,26,0.9629629629629629
+Bookstore Video Store,Train Station Plaza,26,0.9629629629629629
+Video Store,Train Station Plaza Bookstore,26,0.8666666666666667
+Bookstore,Train Station Plaza Video Store,26,0.896551724137931
+Plaza Video Store,Train Station Bookstore,26,0.896551724137931
+Plaza,Train Station Bookstore Video Store,26,0.8387096774193549
+Plaza Bookstore,Train Station Video Store,26,0.896551724137931
+Train Station Bookstore Video Store,Plaza,26,1.0
+Train Station Video Store,Plaza Bookstore,26,0.9285714285714286
+Train Station Bookstore,Plaza Video Store,26,0.9629629629629629
+Train Station Plaza Video Store,Bookstore,26,0.9285714285714286
+Train Station Plaza,Bookstore Video Store,26,0.896551724137931
+Train Station Plaza Bookstore,Video Store,26,0.9629629629629629
+Government Building Video Store,Plaza,20,0.9523809523809523
+Government Building,Plaza Video Store,20,0.9090909090909091
+Government Building Plaza,Video Store,20,0.9523809523809523
+Government Building Plaza,Train Station,20,0.9523809523809523
+Government Building,Train Station Plaza,20,0.9090909090909091
+Train Station Government Building,Plaza,20,1.0
+Bookstore Video Store,Plaza,27,1.0
+Video Store,Plaza Bookstore,27,0.9
+Bookstore,Plaza Video Store,27,0.9310344827586207
+Plaza Video Store,Bookstore,27,0.9310344827586207
+Plaza,Bookstore Video Store,27,0.8709677419354839
+Plaza Bookstore,Video Store,27,0.9310344827586207
+Bookstore Video Store,Train Station,26,0.9629629629629629
+Video Store,Train Station Bookstore,26,0.8666666666666667
+Bookstore,Train Station Video Store,26,0.896551724137931
+Train Station Video Store,Bookstore,26,0.9285714285714286
+Train Station Bookstore,Video Store,26,0.9629629629629629
+Plaza Bookstore,Train Station,27,0.9310344827586207
+Bookstore,Train Station Plaza,27,0.9310344827586207
+Plaza,Train Station Bookstore,27,0.8709677419354839
+Train Station Bookstore,Plaza,27,1.0
+Train Station Plaza,Bookstore,27,0.9310344827586207
+Plaza Video Store,Train Station,28,0.9655172413793104
+Video Store,Train Station Plaza,28,0.9333333333333333
+Plaza,Train Station Video Store,28,0.9032258064516129
+Train Station Video Store,Plaza,28,1.0
+Train Station Plaza,Video Store,28,0.9655172413793104
+Video Store,Government Building,21,0.7
+Government Building,Video Store,21,0.9545454545454546
+Government Building,Plaza,21,0.9545454545454546
+Government Building,Train Station,20,0.9090909090909091
+Video Store,Bookstore,27,0.9
+Bookstore,Video Store,27,0.9310344827586207
+Bookstore,Plaza,29,1.0
+Plaza,Bookstore,29,0.9354838709677419
+Bookstore,Train Station,27,0.9310344827586207
+Video Store,Plaza,29,0.9666666666666667
+Plaza,Video Store,29,0.9354838709677419
+Video Store,Train Station,28,0.9333333333333333
+Plaza,Train Station,29,0.9354838709677419

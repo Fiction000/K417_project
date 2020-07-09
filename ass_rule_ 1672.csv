@@ -1,0 +1,12 @@
+Subway Convenience Store,Train Station,22,1.0
+Convenience Store,Train Station Subway,22,0.8148148148148148
+Train Station Convenience Store,Subway,22,0.9565217391304348
+Subway Food & Drink Shop,Train Station,24,0.9230769230769231
+Food & Drink Shop,Train Station Subway,24,0.75
+Train Station Food & Drink Shop,Subway,24,0.96
+Convenience Store,Train Station,23,0.8518518518518519
+Convenience Store,Subway,22,0.8148148148148148
+Food & Drink Shop,Train Station,25,0.78125
+Food & Drink Shop,Subway,26,0.8125
+Subway,Train Station,43,0.9148936170212766
+Train Station,Subway,43,0.9555555555555556

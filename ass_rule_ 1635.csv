@@ -1,0 +1,59 @@
+Shrine University Convenience Store,Subway,20,1.0
+Convenience Store University,Subway Shrine,20,0.9523809523809523
+Convenience Store,Subway Shrine University,20,0.7692307692307693
+Convenience Store Shrine,Subway University,20,0.8333333333333334
+Subway University Convenience Store,Shrine,20,0.9523809523809523
+Subway Convenience Store,Shrine University,20,0.8695652173913043
+Subway Shrine Convenience Store,University,20,0.9523809523809523
+Subway Shrine University,Home (private),26,0.8125
+Shrine University,Home (private) Subway,26,0.8125
+University,Home (private) Subway Shrine,26,0.7647058823529411
+Subway University,Home (private) Shrine,26,0.7647058823529411
+Home (private) Shrine University,Subway,26,1.0
+Home (private) University,Subway Shrine,26,1.0
+Home (private),Subway Shrine University,26,0.7647058823529411
+Home (private) Shrine,Subway University,26,0.7647058823529411
+Home (private) Subway University,Shrine,26,1.0
+Home (private) Subway,Shrine University,26,0.9629629629629629
+Home (private) Subway Shrine,University,26,0.9629629629629629
+University Convenience Store,Subway,21,1.0
+Convenience Store,Subway University,21,0.8076923076923077
+Subway Convenience Store,University,21,0.9130434782608695
+Convenience Store University,Shrine,20,0.9523809523809523
+Convenience Store,Shrine University,20,0.7692307692307693
+Convenience Store Shrine,University,20,0.8333333333333334
+Shrine Convenience Store,Subway,21,0.875
+Convenience Store,Subway Shrine,21,0.8076923076923077
+Subway Convenience Store,Shrine,21,0.9130434782608695
+Subway University,Home (private),26,0.7647058823529411
+University,Home (private) Subway,26,0.7647058823529411
+Home (private) University,Subway,26,1.0
+Home (private),Subway University,26,0.7647058823529411
+Home (private) Subway,University,26,0.9629629629629629
+Shrine University,Home (private),26,0.8125
+University,Home (private) Shrine,26,0.7647058823529411
+Home (private) University,Shrine,26,1.0
+Home (private),Shrine University,26,0.7647058823529411
+Home (private) Shrine,University,26,0.7647058823529411
+Home (private) Shrine,Subway,27,0.7941176470588235
+Home (private),Subway Shrine,27,0.7941176470588235
+Home (private) Subway,Shrine,27,1.0
+Home (private) Other Great Outdoors,Shrine,20,1.0
+Shrine University,Subway,32,1.0
+University,Subway Shrine,32,0.9411764705882353
+Subway University,Shrine,32,0.9411764705882353
+Subway,Shrine University,32,0.7441860465116279
+Subway Shrine,University,32,0.8205128205128205
+Other Great Outdoors Subway,Shrine,25,0.9615384615384616
+Convenience Store,University,21,0.8076923076923077
+Convenience Store,Subway,23,0.8846153846153846
+Convenience Store,Shrine,24,0.9230769230769231
+University,Home (private),26,0.7647058823529411
+Home (private),University,26,0.7647058823529411
+Home (private),Subway,27,0.7941176470588235
+Home (private),Shrine,34,1.0
+University,Subway,34,1.0
+Subway,University,34,0.7906976744186046
+University,Shrine,32,0.9411764705882353
+Subway,Shrine,39,0.9069767441860465
+Other Great Outdoors,Shrine,40,0.8888888888888888

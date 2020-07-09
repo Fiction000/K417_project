@@ -1,0 +1,9 @@
+Concert Hall Stadium,Train Station,27,1.0
+Stadium,Train Station Concert Hall,27,0.84375
+Concert Hall,Train Station Stadium,27,0.84375
+Train Station Stadium,Concert Hall,27,0.84375
+Train Station Concert Hall,Stadium,27,0.84375
+Stadium,Concert Hall,27,0.84375
+Concert Hall,Stadium,27,0.84375
+Concert Hall,Train Station,32,1.0
+Stadium,Train Station,32,1.0

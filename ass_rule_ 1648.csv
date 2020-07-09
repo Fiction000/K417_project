@@ -1,0 +1,27 @@
+College Academic Building University,Bus Station,20,0.8695652173913043
+College Academic Building,Bus Station University,20,0.8
+Bus Station University,College Academic Building,20,0.8333333333333334
+Bus Station College Academic Building,University,20,0.9090909090909091
+Bus Station College Academic Building,Train Station,21,0.9545454545454546
+College Academic Building,Train Station Bus Station,21,0.84
+Bus Station,Train Station College Academic Building,21,0.7241379310344828
+Train Station College Academic Building,Bus Station,21,0.9130434782608695
+Train Station Bus Station,College Academic Building,21,0.75
+College Academic Building University,Train Station,21,0.9130434782608695
+College Academic Building,Train Station University,21,0.84
+Train Station University,College Academic Building,21,0.7
+Train Station College Academic Building,University,21,0.9130434782608695
+Bus Station University,Train Station,23,0.9583333333333334
+University,Train Station Bus Station,23,0.71875
+Bus Station,Train Station University,23,0.7931034482758621
+Train Station University,Bus Station,23,0.7666666666666667
+Train Station Bus Station,University,23,0.8214285714285714
+College Academic Building,Bus Station,22,0.88
+Bus Station,College Academic Building,22,0.7586206896551724
+University,College Academic Building,23,0.71875
+College Academic Building,University,23,0.92
+College Academic Building,Train Station,23,0.92
+University,Bus Station,24,0.75
+Bus Station,University,24,0.8275862068965517
+Bus Station,Train Station,28,0.9655172413793104
+University,Train Station,30,0.9375
