@@ -10,8 +10,8 @@ def get_venue_info(venueID, date, latitude, longitude, query_category):
     url = 'https://api.foursquare.com/v2/venues/' + venueID
 
     params = dict(
-      client_id='JPSTZ2VV3CWLLIVYWCW3TK4ML0PTLY23IL15BNZ03MEK5MNL',
-      client_secret='RAKHEUG0HM4LCGZ0IFDTV4SGL0D1PIVC1H03R5JEYSPWOWCA',
+      client_id='',
+      client_secret='',
       v=date,
       ll=str(latitude) + ',' + str(longitude),
       query=query_category,
